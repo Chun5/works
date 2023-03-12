@@ -25,15 +25,13 @@ My works
  
  
 
-2. Zyla developer center
+3. Zyla
 -------------------------
-
-Project introduction
-====================
-TBW
+Zyla is designed for cross-border businesses trading in multiple currencies.
 
 My works
 ============
+- `Zyla enterprise solution <https://developers.zyla.com/docs/zyla-developer-doc/zyla_enterprise_solution/overview>`_
 
 
 | 
@@ -55,7 +53,11 @@ My works
 ✨ Career
 ===========
 
-What is your intent when reviewing a technical document?
+Career path of technical writers
+=====
+
+
+
 
 
 |
@@ -68,6 +70,7 @@ What is your intent when reviewing a technical document?
 
 reStructuredText
 =================
+
 Markdown
 ========
 XML
