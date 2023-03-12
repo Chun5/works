@@ -116,7 +116,7 @@ How big is the communication gap between developers and writers?
 
 |
 =========
-✡ About
+✧ About
 =========
 
 
