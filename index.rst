@@ -12,7 +12,7 @@ This project is developed to
 
 My works
 ============
-- `User manual <https://developers.worldfirst.com.cn/docs/alipay-worldfirst/overview/home>`_
+- `User manual <https://developers.worldfirst.com.cn/docs/alipay-worldfirst/overview/home target="_blank">`_
 
 - Are intuitive
  
