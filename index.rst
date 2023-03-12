@@ -2,7 +2,7 @@ Welcome to my Technical Writing Blog.
 =====================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Works
 
    Works/wf.rst
@@ -10,7 +10,7 @@ Welcome to my Technical Writing Blog.
 
 
 .. toctree::
-    :maxdepth:1
+    :maxdepth: 2
     :caption: Reading
 
     Reading/DQTI.rst
