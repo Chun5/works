@@ -41,6 +41,11 @@ Reading notes
 Reading notes/DQTI.rst
 
 
+    :ref:`DQTI`
+    :ref:`modindex`
+    :ref:`search`
+
+
 =====================
 Career
 =====================
