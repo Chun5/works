@@ -5,7 +5,7 @@ Welcome to my Technical Writing Blog.
    :maxdepth: 1
    :caption: Works
 
-   1. works/worldfirst.rst
+   1. works/wf.rst
    2. works/zyla.rst
    3. works/api.rst
    4. works/secrpt.rst
