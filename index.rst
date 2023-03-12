@@ -2,6 +2,13 @@
 Projects and works
 =====================
 
+.. toctree::
+   :maxdepth: 1
+   :caption: test
+
+   Works/about.rst
+   
+
 1. WorldFirst developer center
 -----------------------------------------------
 
