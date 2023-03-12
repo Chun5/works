@@ -54,7 +54,7 @@ My works
 ===========
 
 Career path of technical writers
-=====
+--------------------------------
 
 
 
@@ -70,7 +70,6 @@ Career path of technical writers
 
 reStructuredText
 =================
-
 Markdown
 ========
 XML
@@ -89,15 +88,17 @@ Sphinx
 3. Project management
 ---------------------
 
+
 |
 =====================
 ⭐ Inspiration
 =====================
 
 Wearable user guide
-===================
+====================
+
 Will technical writers be replaced by AI？
-======
+==========================================
 What do we imply when reviewing a technical document?
 ======
 The communication gap between developers and writers
