@@ -35,32 +35,21 @@ My works
 Reading notes
 =====================
 
-1. DQTI (Developing Quality Technical Information, IBM)
------------------------------------------------------------
+1. `DQTI (IBM) <https://chun5.github.io/works/>`_
+---------------------
 
-.. toctree::
-    :maxdepth: 1
-    
-Reading notes/index.rst
-Reading notes/DQTI.rst
+2. Microsoft Style Guide
+-------------------------
 
-
-.. toctree::
-    :maxdepth: 1
-    
-Projects and works/index.rst
-
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+3. A Practical Guide to Information Architecture
+--------------------------------------------------
 
 
 =====================
 Career
 =====================
 
-
+What is your intent when reviewing a technical document?
 
 
 
