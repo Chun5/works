@@ -39,10 +39,15 @@ Reading notes
 -----------------------------------------------------------
 
 .. toctree::
-    :maxdepth: 2
-
+    :maxdepth: 1
+    
 Reading notes/index.rst
 Reading notes/DQTI.rst
+
+
+.. toctree::
+    :maxdepth: 1
+    
 Projects and works/index.rst
 
 
