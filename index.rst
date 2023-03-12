@@ -6,7 +6,7 @@ Projects and works
    :maxdepth: 1
    :caption: test
 
-   Works/about.rst
+   Projects and works/index.md
    
 
 1. WorldFirst developer center
