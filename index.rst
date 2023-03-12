@@ -38,7 +38,7 @@ Reading notes
 1. DQTI (Developing Quality Technical Information, IBM)
 -----------------------------------------------------------
 
-
+Reading notes/DQTI.rst
 
 
 =====================
