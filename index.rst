@@ -12,7 +12,7 @@ This project is developed to
 
 My works
 ============
-- 'User manual <https://developers.worldfirst.com.cn/docs/alipay-worldfirst/overview/home>'
+- User manual: https://developers.worldfirst.com.cn/docs/alipay-worldfirst/overview/home
 - Are intuitive
  
  
@@ -31,7 +31,7 @@ My works
 
 
 =====================
-Reading and learning
+Reading notes
 =====================
 
 1. DQTI
@@ -39,4 +39,28 @@ Reading and learning
 
 
 
+
+
+=====================
+Career
+=====================
+
+
+
+
+
+
+
+=====================
+Tools
+=====================
+
+
+
+
+
+
+=====================
+Inspiration
+=====================
 
