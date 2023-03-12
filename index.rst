@@ -2,13 +2,6 @@
 Projects and works
 =====================
 
-.. toctree::
-   :maxdepth: 1
-   :caption: test
-
-   Projects and works/index.md
-   
-
 1. WorldFirst developer center
 -----------------------------------------------
 
@@ -53,7 +46,13 @@ Reading notes
 Career
 =====================
 
-Works/about.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: test
+
+   Projects and works/index.md
+   
 
 
 
