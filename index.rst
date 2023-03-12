@@ -6,7 +6,7 @@ Welcome to my Technical Writing Blog.
    :caption: Works
 
    Works/wf.rst
-
+   Works/index.rst
 
 
 .. toctree::
