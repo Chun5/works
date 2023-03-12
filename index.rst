@@ -12,8 +12,8 @@ This project is developed to
 
 My works
 ============
-- 'User manual'_
-.. _link: https://developers.worldfirst.com.cn/docs/alipay-worldfirst/overview/home
+- `User manual <https://developers.worldfirst.com.cn/docs/alipay-worldfirst/overview/home>`_
+
 - Are intuitive
  
  
