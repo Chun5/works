@@ -5,11 +5,11 @@ Welcome to my Technical Writing Blog.
    :maxdepth: 1
    :caption: Works
 
-   1. works/wf.rst
-   2. works/zyla.rst
-   3. works/api.rst
-   4. works/secrpt.rst
-   5. works/training.rst
+   Works/wf.rst
+   2. Works/zyla.rst
+   3. Works/api.rst
+   4. Works/secrpt.rst
+   5. Works/training.rst
 
 
 .. toctree::
