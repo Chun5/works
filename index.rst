@@ -2,6 +2,18 @@
 🌟 Projects and works
 =====================
 
+1. TikTok pay solution 
+-----------------------
+The project is developed to provide the payment service in the cross-border e-commerce for TikTok.
+I am responsible for writing API specification for the pay solution.
+
+My works
+============
+- `User manual <https://developers.worldfirst.com.cn/docs/alipay-worldfirst/overview/home>`_
+
+
+
+
 1. WorldFirst developer center
 -------------------------------
 
@@ -13,9 +25,6 @@ This project is developed to
 My works
 ============
 - `User manual <https://developers.worldfirst.com.cn/docs/alipay-worldfirst/overview/home>`_
-
-- Are intuitive
- 
  
  
 
@@ -45,16 +54,16 @@ My works
 --------------------------------------------------
 
 | 
-=====================
+===========
 ✨ Career
-=====================
+===========
 
 What is your intent when reviewing a technical document?
 
 
 |
 =========
-✡ Tools
+🔯 Tools
 =========
 
 1. Language
@@ -62,9 +71,12 @@ What is your intent when reviewing a technical document?
 
 reStructuredText
 =================
-
 Markdown
 ========
+XML
+====
+HTML
+====
 
 
 2. Document management
@@ -79,6 +91,6 @@ Sphinx
 
 |
 =====================
-☪ Inspiration
+⭐ Inspiration
 =====================
 
