@@ -53,8 +53,8 @@ My works
 ✨ Career
 ===========
 
-Career path of technical writers
---------------------------------
+Career path
+------------
 
 
 
@@ -94,8 +94,8 @@ Sphinx
 ⭐ Inspiration
 =====================
 
-Wearable user guide
-====================
+Discussion
+-----------
 
 Will technical writers be replaced by AI？
 ==========================================
@@ -103,6 +103,9 @@ What do we imply when reviewing a technical document?
 ======
 The communication gap between developers and writers
 ======
+
+Wearable user guide
+--------------------
 Technical documents create great value for companies
-======
+-----------------------
 
