@@ -41,7 +41,9 @@ Reading notes
 .. toctree::
     :maxdepth: 2
 
+Reading notes/index.rst
 Reading notes/DQTI.rst
+Projects and works/index.rst
 
 
 * :ref:`genindex`
