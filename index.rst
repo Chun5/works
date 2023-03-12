@@ -1,5 +1,5 @@
 =====================
-Projects and works
+🌟 Projects and works
 =====================
 
 1. WorldFirst developer center
@@ -32,7 +32,7 @@ My works
 
 | 
 =====================
-Reading notes
+🌃 Reading notes
 =====================
 
 1. `DQTI (IBM) <https://chun5.github.io/works/>`_
@@ -44,17 +44,17 @@ Reading notes
 3. A Practical Guide to Information Architecture
 --------------------------------------------------
 
-
+| 
 =====================
-Career
+✨ Career
 =====================
 
 What is your intent when reviewing a technical document?
 
 
-
+|
 =========
-Tools
+✡ Tools
 =========
 
 1. Language
@@ -77,8 +77,8 @@ Sphinx
 3. Project management
 ---------------------
 
-
+|
 =====================
-Inspiration
+☪ Inspiration
 =====================
 
