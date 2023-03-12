@@ -1,4 +1,7 @@
 
+ Welcome
+ ==================
+ 
 .. toctree::
    :maxdepth: 2
    :caption: Works
@@ -13,8 +16,7 @@
 
     Reading/DQTI.rst
 
- Welcome
- ==================
+
  
  * :ref:`genindex`
  * :ref:`modindex`
