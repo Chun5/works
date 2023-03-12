@@ -2,18 +2,7 @@
  Welcome
  ==================
  
-.. toctree::
-   :maxdepth: 2
-   :caption: Works
-
-   Works/wf.rst
-   Works/index.rst
-
-
-.. toctree::
-    :maxdepth: 2
-    :caption: Reading
-
+    Works/wf.rst
     Reading/DQTI.rst
 
 
