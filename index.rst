@@ -35,9 +35,8 @@ My works
 Reading notes
 =====================
 
-1. DQTI
---------
-
+1. DQTI (Developing Quality Technical Information, IBM)
+-----------------------------------------------------------
 
 
 
@@ -45,14 +44,6 @@ Reading notes
 =====================
 Career
 =====================
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: test
-
-   Projects and works/index.md
-   
 
 
 
