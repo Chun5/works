@@ -4,8 +4,8 @@
     :maxdepth: 2
     :caption: Contents:
  
- ** my doc center
+ *my doc center
  
- * :ref:`index.md`
+ * :ref:`index`
  * :ref:`modindex`
  * :ref:`search`
