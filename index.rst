@@ -38,12 +38,15 @@ Reading notes
 1. DQTI (Developing Quality Technical Information, IBM)
 -----------------------------------------------------------
 
+.. toctree::
+    :maxdepth: 2
+
 Reading notes/DQTI.rst
 
 
-    :ref:`DQTI`
-    :ref:`modindex`
-    :ref:`search`
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
 
 
 =====================
