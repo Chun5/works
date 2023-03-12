@@ -7,7 +7,8 @@ test
     :maxdepth: 2
     :caption: Contents:
 
-test
+about
+
  ==================
  
  * :ref:`genindex`
