@@ -26,11 +26,11 @@ My works
  
 
 3. Zyla
--------------------------
+---------
 Zyla is designed for cross-border businesses trading in multiple currencies.
 
 My works
-============
+=========
 - `Zyla enterprise solution <https://developers.zyla.com/docs/zyla-developer-doc/zyla_enterprise_solution/overview>`_
 
 
@@ -53,10 +53,11 @@ My works
 ✨ Career
 ===========
 
-Career path
-------------
+1. Career path
+--------------
 
-
+2. OG says
+--------------
 
 
 
@@ -94,18 +95,30 @@ Sphinx
 ⭐ Inspiration
 =====================
 
-Discussion
+1. Discussion
 -----------
 
 Will technical writers be replaced by AI？
 ==========================================
 What do we imply when reviewing a technical document?
 ======
-The communication gap between developers and writers
+How big is the communication gap between developers and writers?
 ======
 
-Wearable user guide
---------------------
-Technical documents create great value for companies
+2. Wearable user guide
+----------------------
+
+3. Technical documents create great value for companies
 -----------------------
+
+
+
+
+|
+=========
+✡ About
+=========
+
+
+
 
