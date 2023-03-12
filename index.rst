@@ -1,15 +1,10 @@
 
- Welcome
- =================================
  
  .. toctree::
     :maxdepth: 2
     :caption: Contents:
  
- 
- 
- Works
- ==================
+ index
  
  * :ref:`genindex`
  * :ref:`modindex`
