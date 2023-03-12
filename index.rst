@@ -1,9 +1,5 @@
 
  
- .. toctree::
-    :maxdepth: 2
-    :caption: Contents:
- 
 =================
 My Project Readme
 =================
