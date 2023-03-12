@@ -3,7 +3,7 @@ Projects and works
 =====================
 
 1. WorldFirst developer center
------------------------------------------------
+-------------------------------
 
 Project introduction
 ====================
@@ -20,7 +20,7 @@ My works
  
 
 2. Zyla developer center
------------------------------------------------
+-------------------------
 
 Project introduction
 ====================
@@ -38,7 +38,6 @@ Reading notes
 1. `DQTI (IBM) <https://chun5.github.io/works/>`_
 --------------------------------------------------
 
--------------------------
 2. Microsoft Style Guide
 -------------------------
 
@@ -54,13 +53,29 @@ What is your intent when reviewing a technical document?
 
 
 
-=====================
+=========
 Tools
-=====================
+=========
+
+1. Language
+------------
+
+reStructuredText
+=================
+
+Markdown
+========
 
 
+2. Document management
+-----------------------------
+
+Sphinx
+======
 
 
+3. Project management
+---------------------
 
 
 =====================
