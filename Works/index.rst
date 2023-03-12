@@ -1,14 +1,14 @@
-test
 
- Welcome to diary's documentation!
- =================================
+ Welcome to my documentation center
+ ==================================
+ 
  
  .. toctree::
     :maxdepth: 2
     :caption: Contents:
 
-about
 
+ about
  ==================
  
  * :ref:`genindex`
