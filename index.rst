@@ -13,3 +13,9 @@
 
     Reading/DQTI.rst
 
+ Welcome
+ ==================
+ 
+ * :ref:`genindex`
+ * :ref:`modindex`
+ * :ref:`search`
