@@ -65,30 +65,45 @@ Chapter 1: Technical information continues to evolve
   A new generation of technology-savvy users is entering the workforce, existing workers are
   becoming more adept, and technology is becoming more sophisticated. Because of these changes,
   the emphasis is on more usable, intuitive, and appealing products. Now we need to expand our
-  focus beyond topic-based information and onto the product user interfaces themselves. Embedded
-  assistance (EA) encompasses all textual and graphical elements that users encounter in all
-  types of products.
-
-  Progressive disclosure of information
+  focus beyond topic-based information and onto the product user interfaces themselves.
   
   Information that you put in an installation guide is not appropriate in an application
   development guide. Different interface display mechanisms require different types of
   information.
   
   When you become more adept at creating meaningful and effective embedded assistance and
-  delivering it progressively, you create a better customer experience and become a more valuable
-  member of your product team.
+  delivering it progressively, you create a better customer experience and become a more
+  valuable member of your product team.
 
-  The TW's role today
+
+The TW's role today
+=====================
+::
   
   We are more involved with product design and user interface development, which means that we
-  must be involved earlier than ever in the development cycle. The historic waterfall development
-  process is made up of specific phases in which each participating team finishes its work and
-  hands it to the next team. The problem with this process is that downstream teams have very
-  little chance to change anything that happened upstream. Furthermore, because documentation is
-  developed close to the end of the cycle, documentation often tries to describe a poor design
-  that can no longer be changed. Too often, technical writers who work in a waterfall development
-  process must write comprehensive documentation that needs to atone for unwieldy design.
+  must be involved earlier than ever in the development cycle. The historic waterfall
+  development process is made up of specific phases in which each participating team finishes
+  its work and hands it to the next team. The problem with this process is that downstream teams
+  have very little chance to change anything that happened upstream. Furthermore, because
+  documentation is developed close to the end of the cycle, documentation often tries to describe
+  a poor design that can no longer be changed. Too often, technical writers who work in a waterfall
+  development process must write comprehensive documentation that needs to atone for unwieldy
+  design.
+  
+  More and more development teams are using an agile development process, which depends on
+  cross-functional teams working together throughout an iterative development cycle. Although
+  members of these cross-functional teams all bring their own skills to the team from their unique
+  disciplines, they are much more likely to look at and contribute to each others' deliverables so
+  that products are a full team effort. Agile development, as the name implies, lends itself to
+  making quick changes to product design when necessary.
+  
+  When you DQTI, you are responsible for:
+  Knowing the user stories (the goals users need to accomplish by using the product) 
+  Being the users' advocate, ensuring that the product employs the necessary programmatic assistance
+  and embedded assistance
+  Owning the words, whether they are in labels in the UI, error messages, or topics that are
+  separate from the product
+
 
 
 
