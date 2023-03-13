@@ -86,23 +86,35 @@ The TW's role today
   its work and hands it to the next team. The problem with this process is that downstream teams
   have very little chance to change anything that happened upstream. Furthermore, because
   documentation is developed close to the end of the cycle, documentation often tries to describe
-  a poor design that can no longer be changed. Too often, technical writers who work in a waterfall
-  development process must write comprehensive documentation that needs to atone for unwieldy
-  design.
+  a poor design that can no longer be changed. Too often, technical writers who work in a 
+  waterfall development process must write comprehensive documentation that needs to atone for 
+  unwieldy design.
   
   More and more development teams are using an agile development process, which depends on
   cross-functional teams working together throughout an iterative development cycle. Although
-  members of these cross-functional teams all bring their own skills to the team from their unique
-  disciplines, they are much more likely to look at and contribute to each others' deliverables so
-  that products are a full team effort. Agile development, as the name implies, lends itself to
-  making quick changes to product design when necessary.
+  members of these cross-functional teams all bring their own skills to the team from their 
+  unique disciplines, they are much more likely to look at and contribute to each others'
+  deliverables so that products are a full team effort. Agile development, as the name implies,
+  lends itself to making quick changes to product design when necessary.
   
   When you DQTI, you are responsible for:
-  Knowing the user stories (the goals users need to accomplish by using the product) 
-  Being the users' advocate, ensuring that the product employs the necessary programmatic assistance
-  and embedded assistance
-  Owning the words, whether they are in labels in the UI, error messages, or topics that are
+  1. Knowing the user stories (the goals users need to accomplish by using the product) 
+  2. Being the users' advocate, ensuring that the product employs the necessary programmatic
+  assistance and embedded assistance
+  3. Owning the words, whether they are in labels in the UI, error messages, or topics that are
   separate from the product
+
+
+Redefining quality technical information
+========================================
+::
+
+  An overwhelming majority of customers report that information quality both affects their view 
+  of product quality and their overall product satisfaction. Information quality also has a 
+  significant impact on customers' buying decisions.
+
+
+
 
 
 
