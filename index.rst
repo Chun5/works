@@ -40,8 +40,9 @@ My works
 =====================
 
 1. `DQTI (IBM) <https://chun5.github.io/works/>`_
---------------------------------------------------
+===================================
 
+-------------------------
 2. Microsoft Style Guide
 -------------------------
 
@@ -100,7 +101,7 @@ Sphinx
 
 Will technical writers be replaced by AI？
 ==========================================
-What do we imply when reviewing a technical document?
+What do we consider when reviewing a technical document?
 ======
 How big is the communication gap between developers and writers?
 ======
