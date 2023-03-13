@@ -70,10 +70,25 @@ Chapter 1: Technical information continues to evolve
   types of products.
 
   Progressive disclosure of information
-  Information that you put in an installation guide is not appropriate in an application development
-  guide. Different interface display mechanisms require different types of information.
   
+  Information that you put in an installation guide is not appropriate in an application
+  development guide. Different interface display mechanisms require different types of
+  information.
+  
+  When you become more adept at creating meaningful and effective embedded assistance and
+  delivering it progressively, you create a better customer experience and become a more valuable
+  member of your product team.
 
+  The TW's role today
+  
+  We are more involved with product design and user interface development, which means that we
+  must be involved earlier than ever in the development cycle. The historic waterfall development
+  process is made up of specific phases in which each participating team finishes its work and
+  hands it to the next team. The problem with this process is that downstream teams have very
+  little chance to change anything that happened upstream. Furthermore, because documentation is
+  developed close to the end of the cycle, documentation often tries to describe a poor design
+  that can no longer be changed. Too often, technical writers who work in a waterfall development
+  process must write comprehensive documentation that needs to atone for unwieldy design.
 
 
 
