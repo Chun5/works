@@ -1,6 +1,6 @@
-=====================
+===============
 🌟 Writings
-=====================
+===============
 
 1. WorldFirst enterprise solution API specification
 ----------------------------------------------------
@@ -53,10 +53,28 @@ My works
 ============
 
 0. `DQTI (IBM) <https://chun5.github.io/works/>`_
+-------------------------------------------------
 ::
 
   DQTI (Developing Quality Technical Information) is the great guide for technical writers.
   
+Chapter 1: Technical information continues to evolve
+=====================================================
+::
+
+  A new generation of technology-savvy users is entering the workforce, existing workers are
+  becoming more adept, and technology is becoming more sophisticated. Because of these changes,
+  the emphasis is on more usable, intuitive, and appealing products. Now we need to expand our
+  focus beyond topic-based information and onto the product user interfaces themselves. Embedded
+  assistance (EA) encompasses all textual and graphical elements that users encounter in all
+  types of products.
+
+  Progressive disclosure of information
+  Information that you put in an installation guide is not appropriate in an application development
+  guide. Different interface display mechanisms require different types of information.
+  
+
+
 
 
 1. IBM Style Guide - The Conventions for Writers and Editors
