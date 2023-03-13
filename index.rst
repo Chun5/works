@@ -39,15 +39,19 @@ My works
 🌃 Reading notes
 =====================
 
-1. `DQTI (IBM) <https://chun5.github.io/works/>`_
-===================================
-
--------------------------
+0. `DQTI (IBM) <https://chun5.github.io/works/>`_
+1. IBM Style Guide - The Conventions for Writers and Editors
 2. Microsoft Style Guide
--------------------------
-
 3. A Practical Guide to Information Architecture
---------------------------------------------------
+4. Understanding Your Users - A Practical Guide to User Research Methods
+5. Managing Enterprise Content
+6. Content Strategy for the Web
+7. Docs for Developers - An Engineer’s Field Guide to Technical Writing
+8. Handbook of Technical Writing
+9. SAP Style Guide For Technical Communication
+
+
+
 
 | 
 ===========
@@ -113,13 +117,11 @@ How big is the communication gap between developers and writers?
 -----------------------
 
 
-
-
 |
 =========
 ✧ About
 =========
-
-
+This blog is written to present my works, and share valuable things on technical writing.
+Have a beautiful day :)
 
 
