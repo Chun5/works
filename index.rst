@@ -108,7 +108,7 @@ Redefining quality technical information
 
 QTI's characteristics:
 ======================
-- Easy to use
+- **Easy to use**
 
   + Task orientation: In the context of a product, a focus on helping users do tasks that
     support their goals
@@ -117,7 +117,7 @@ QTI's characteristics:
 
   * Completeness: The inclusion of all necessary parts-and only those parts
 
-- Easy to understand
+- **Easy to understand**
 
   + Clarity: Freedom from ambiguity or obscurity; using language in such a way that users
     understand it the first time that they read it
@@ -127,7 +127,7 @@ QTI's characteristics:
 
   * Style: Correctness and appropriateness of writing conventions and of words and phrases
   
-- Easy to find
+- **Easy to find**
 
   + Organization: A coherent arrangement of parts that makes sense to the user
   
@@ -140,11 +140,12 @@ QTI's characteristics:
 
 
 Chapter 2: Developing quality technical information
-----------------------------------------------------
+====================================================
 
 
 
 
+|
 1. IBM Style Guide - The Conventions for Writers and Editors
 ------------------------------------------------------------
 
@@ -311,9 +312,7 @@ Technical documents create great value for companies
   
   If it is clear to me, it should be clear to them by technical writing.
   
-  You can share this page with others. URL: z.rtfd.io
-  
-  Have a beautiful day :)
+  You can share this page https://z.rtfd.io with others. Have a beautiful day :)
 
 
 
