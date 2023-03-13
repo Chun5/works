@@ -52,7 +52,7 @@ My works
 📚 Reading
 ============
 
-0. `DQTI (IBM) <https://chun5.github.io/works/>`_
+0. DQTI (IBM)
 -------------------------------------------------
 ::
 
@@ -85,24 +85,10 @@ The TW's role today
   development process is made up of specific phases in which each participating team finishes
   its work and hands it to the next team. The problem with this process is that downstream teams
   have very little chance to change anything that happened upstream. Furthermore, because
-  documentation is developed close to the end of the cycle, documentation often tries to describe
-  a poor design that can no longer be changed. Too often, technical writers who work in a 
-  waterfall development process must write comprehensive documentation that needs to atone for 
+  documentation is developed close to the end of the cycle, documentation often tries to 
+  describe a poor design that can no longer be changed. Too often, technical writers who work in
+  a waterfall development process must write comprehensive documentation that needs to atone for 
   unwieldy design.
-  
-  More and more development teams are using an agile development process, which depends on
-  cross-functional teams working together throughout an iterative development cycle. Although
-  members of these cross-functional teams all bring their own skills to the team from their 
-  unique disciplines, they are much more likely to look at and contribute to each others'
-  deliverables so that products are a full team effort. Agile development, as the name implies,
-  lends itself to making quick changes to product design when necessary.
-  
-  When you DQTI, you are responsible for:
-  1. Knowing the user stories (the goals users need to accomplish by using the product) 
-  2. Being the users' advocate, ensuring that the product employs the necessary programmatic
-  assistance and embedded assistance
-  3. Owning the words, whether they are in labels in the UI, error messages, or topics that are
-  separate from the product
 
 
 Redefining quality technical information
@@ -112,10 +98,34 @@ Redefining quality technical information
   An overwhelming majority of customers report that information quality both affects their view 
   of product quality and their overall product satisfaction. Information quality also has a 
   significant impact on customers' buying decisions.
+  
+  Almost always, users seek answers to specific questions and don't want to read a book from
+  beginning to end to find those answers. Quality information addresses users where they are.
+  Writers must apply their own skills and expertise based on solid research and proven methods.
 
 
+QTI's characteristics:
+======================
+- Easy to use
 
+  + Task orientation: In the context of a product, a focus on helping users do tasks that
+    support their goals
 
+  - Accuracy: Freedom from mistake or error; adherence to fact or truth
+
+  * Completeness: The inclusion of all necessary parts-and only those parts
+
+- Easy to understand
+
+  + Clarity: Freedom from ambiguity or obscurity; using language in such a way that users
+    understand it the first time that they read it
+    
+  - Concreteness: The inclusion of appropriate examples, scenarios, similes, analogies,
+    specific language, and graphics  
+
+  * Style: Correctness and appropriateness of writing conventions and of words and phrases
+  
+  
 
 
 
