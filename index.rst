@@ -6,9 +6,8 @@
 ---------------------------------
 ::
 
-  The project is developed to boost the financial inclusion by driving a significant increase
-  in digital payments across the globe.
-  I am responsible for writing API specifications for the pay solution.
+  The project is developed to boost the financial inclusion by driving a significant increase in
+  digital payment across the globe. I write API specifications for the payment related modules.
 
 
 My works
@@ -125,7 +124,7 @@ Experience
 ⭐ Inspiration
 =====================
 
-1. Discussion
+Discussion
 -------------
 
 Will technical writers be replaced by AI？
@@ -133,18 +132,16 @@ Will technical writers be replaced by AI？
 ::
 
   The answer is no in the recent decade, but it could happen in 2050.
-  Technical writers can hardly be totally replaced by AI, no matter how advanced the AI brain
-  is trained. In theory, it is a process AI infinitely approaches to replacing technical writers.
+  Technical writers can hardly be totally replaced by AI, no matter how advanced the AI brain is
+  trained. In theory, it is a process AI infinitely approaches to replacing technical writers.
   
-  1. It takes so long to witness the disappearance of an occupation.
-  2. AI does have bugs/weakness in wording, 
-  3. Concerning creative writing, such as suspense novel, AI is unable to 
- 
+  1. It is so slow to witness the disappearance of an occupation.
+  2. AI does have bugs or weakness in wording, rhetoric, contextual analysis, etc.
   
-  We can see AI is producing articles to the public, while people can not recognize that they
-  are not written by humankind.
+  3. Concerning creative writing, such as suspense novel, for now, AI is not competent to do
+  this kind of work, or deal with it unsatisfactorily. Although we can see AI is producing
+  articles to the public and people can not recognize that they are written by some machine.
   
- 
   For details, please refer to my articles on Github.
 
 
@@ -152,16 +149,40 @@ What do we consider when reviewing a technical document?
 ========================================================
 ::
 
+  1. Exclude personal factors, like emotion, preference, and interests.
+  2. What is the audience it is written for?
+  3. If I were the user, am I clear to do the tasks?
+  4. Could I search what I want easily?
   
 
 How big is the communication gap between developers and writers?
 =================================================================
+::
 
-2. Wearable user guide
-----------------------
+  1. The unsettled problems, as well as ignored issues, cause the big communication gap today.
+  2. A new role Linguistic Lark is born to resolve the communication problem between Dev and TW.
+  3. How to deploy the Dev-writer?
 
-3. Technical documents create great value for companies
------------------------
+
+
+Wearable user guide
+--------------------
+::
+
+  1. AR for product guide
+  2. How to achieve it?
+  3. Examples of AR companies
+
+
+
+Technical documents create great value for companies
+-----------------------------------------------------
+::
+
+  1. Company asset
+  2. Entrance to products
+  3. Cut the cost
+  4. Company image
 
 
 |
@@ -171,7 +192,8 @@ How big is the communication gap between developers and writers?
 ::
 
   This blog is written to present my technical writings, and share valuable things in the field.
-  If it’s clear to me, it should be clear to them by technical writing.
+  
+  If it is clear to me, it should be clear to them by technical writing.
   
   Have a beautiful day :)
 
