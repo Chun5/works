@@ -1,5 +1,5 @@
 ===============
-🌟 Writings
+✍️ Writings
 ===============
 
 1. WorldFirst enterprise solution API specification
@@ -49,7 +49,7 @@ My works
 
 | 
 ============
-🌃 Reading
+📚 Reading
 ============
 
 0. `DQTI (IBM) <https://chun5.github.io/works/>`_
@@ -105,7 +105,7 @@ Experience
 
 |
 =========
-🔯 Tools
+🧰 Tools
 =========
 
 1. Language
@@ -160,7 +160,7 @@ Experience
 
 |
 =====================
-⭐ Inspiration
+🌟 Inspiration
 =====================
 
 Discussion
@@ -226,7 +226,7 @@ Technical documents create great value for companies
 
 |
 =========
-✧ About
+🌌 About
 =========
 ::
 
