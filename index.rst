@@ -102,6 +102,8 @@ Redefining quality technical information
   Almost always, users seek answers to specific questions and don't want to read a book from
   beginning to end to find those answers. Quality information addresses users where they are.
   Writers must apply their own skills and expertise based on solid research and proven methods.
+  
+  Develop ever smaller chunks of information to address the changing needs of users.
 
 
 QTI's characteristics:
@@ -125,14 +127,37 @@ QTI's characteristics:
 
   * Style: Correctness and appropriateness of writing conventions and of words and phrases
   
+- Easy to find
+
+  + Organization: A coherent arrangement of parts that makes sense to the user
   
+  - Retrievability: The presentation of information in a way that enables users to find
+    specific items quickly and easily
+
+  * Visual effectiveness: Attractiveness and enhanced meaning of information through the 
+    use of layout, illustrations, color, typography, icons, and other graphical devices
+
+
+
+Chapter 2: Developing quality technical information
+----------------------------------------------------
+
 
 
 
 1. IBM Style Guide - The Conventions for Writers and Editors
+------------------------------------------------------------
+
+|
 2. Microsoft Style Guide
+-------------------------
+|
 3. A Practical Guide to Information Architecture
+--------------------------------------------------
+|
 4. Understanding Your Users - A Practical Guide to User Research Methods
+------------------------------------------------------------------------
+|
 5. Managing Enterprise Content
 6. Content Strategy for the Web
 7. Docs for Developers - An Engineer’s Field Guide to Technical Writing
@@ -185,7 +210,7 @@ Experience
 
 
 
-2. Document management tools
+2. Document management tool
 -----------------------------
 ::
 
@@ -196,7 +221,7 @@ Experience
   Visual Studio Code
 
 
-3. Project management tools
+3. Project management tool
 ----------------------------
 ::
 
@@ -285,6 +310,8 @@ Technical documents create great value for companies
   This blog is written to present my technical writings, and share valuable things in the field.
   
   If it is clear to me, it should be clear to them by technical writing.
+  
+  You can share this page with others. URL: z.rtfd.io
   
   Have a beautiful day :)
 
