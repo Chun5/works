@@ -6,8 +6,8 @@
 ---------------------------------
 ::
 
-  The project is developed to boost the financial inclusion by driving a significant
-  increase in digital payments across the globe.
+  The project is developed to boost the financial inclusion by driving a significant increase
+  in digital payments across the globe.
   I am responsible for writing API specifications for the pay solution.
 
 
@@ -116,8 +116,6 @@ Experience
  
   Jira
   
-::
-
 
 
 
@@ -135,17 +133,16 @@ Will technical writers be replaced by AI？
 ::
 
   The answer is no in the recent decade, but it could happen in 2050.
-  Technical writers can hardly be totally replaced by AI, no matter how advanced the
-  AI brain is trained. In theory, it is a process AI infinitely approaches to replacing 
-  technical writers.
+  Technical writers can hardly be totally replaced by AI, no matter how advanced the AI brain
+  is trained. In theory, it is a process AI infinitely approaches to replacing technical writers.
   
   1. It takes so long to witness the disappearance of an occupation.
   2. AI does have bugs/weakness in wording, 
   3. Concerning creative writing, such as suspense novel, AI is unable to 
  
   
-  We can see AI is producing articles to the public, while people can not recognize that
-  they are not written by humankind.
+  We can see AI is producing articles to the public, while people can not recognize that they
+  are not written by humankind.
   
  
   For details, please refer to my articles on Github.
