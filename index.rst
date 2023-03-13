@@ -1,13 +1,14 @@
 =====================
-🌟 Projects and works
+🌟 Writings
 =====================
 
 1. WorldFirst enterprise solution 
 ---------------------------------
 ::
 
-  The project is developed to boost the financial inclusion by driving a significant increase in digital payments across the globe.
-  I am responsible for writing API specification for the pay solution.
+  The project is developed to boost the financial inclusion by driving a significant increase 
+  in digital payments across the globe.
+  I am responsible for writing API specifications for the pay solution.
 
 
 My works
@@ -39,7 +40,7 @@ My works
 
 | 
 =====================
-🌃 Reading notes
+🌃 Reading
 =====================
 
 0. `DQTI (IBM) <https://chun5.github.io/works/>`_
@@ -61,10 +62,10 @@ My works
 ✨ Career
 ===========
 
-1. Career path
+Career path
 --------------
 
-2. OG says
+Experience
 --------------
 
 
@@ -76,26 +77,47 @@ My works
 
 1. Language
 ------------
+::
 
-reStructuredText
-=================
-Markdown
-========
-XML
-====
-HTML
-====
+  reStructuredText:
+
+::
+
+  Markdown:
+
+::
+  XML:
+
+::
+  HTML:
 
 
-2. Document management
+
+2. Document management tools
 -----------------------------
+::
 
-Sphinx
-======
+  Sphinx
+
+::
+
+  Visual Studio Code
 
 
-3. Project management
----------------------
+3. Project management tools
+----------------------------
+::
+
+  Slack
+  
+::
+ 
+  Jira
+  
+::
+
+
+
 
 
 |
@@ -104,14 +126,35 @@ Sphinx
 =====================
 
 1. Discussion
------------
+-------------
 
 Will technical writers be replaced by AI？
 ==========================================
+::
+
+  The answer is no in the recent decade, but it could happen in 2050.
+  Technical writers can hardly be totally replaced by AI, no matter how advanced the AI brain is trained.
+  In theory, it is a process AI infinitely approaches to replacing technical writers.
+  
+  1. It takes so long to witness the disappearance of an occupation.
+  2. AI does have bugs/weakness in wording, 
+  3. Concerning creative writing, such as suspense novel, AI is unable to 
+ 
+  
+  We can see AI is producing articles to the public, while people can not recognize that they are not written by humankind.
+  
+ 
+  For details, please see my posts on Github.
+
+
 What do we consider when reviewing a technical document?
-======
+========================================================
+::
+
+  
+
 How big is the communication gap between developers and writers?
-======
+=================================================================
 
 2. Wearable user guide
 ----------------------
@@ -124,8 +167,12 @@ How big is the communication gap between developers and writers?
 =========
 ✧ About
 =========
-This blog is written to present my works, and share valuable things on technical writing.
-Have a beautiful day :)
+::
+
+  This blog is written to present my technical writings, and share valuable things in the field.
+  If it’s clear to me, it should be clear to them by technical writing.
+  
+  Have a beautiful day :)
 
 
 
