@@ -309,10 +309,12 @@ Technical documents create great value for companies
 ::
 
   This blog is written to present my technical writings, and share valuable things in the field.
+  You can share this page https://z.rtfd.io with others. 
   
   If it is clear to me, it should be clear to them by technical writing.
+  --- Austen, a technical writer from China.
   
-  You can share this page https://z.rtfd.io with others. Have a beautiful day :)
+  Have a beautiful day :)
 
 
 
