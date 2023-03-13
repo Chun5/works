@@ -36,9 +36,8 @@ My works
 ---------
 ::
 
-  Zyla is developed for cross-border businesses trading in multiple currencies. I plan and design
-  the information architecture of its developer center.
-  
+  Zyla is developed for cross-border businesses trading in multiple currencies. I design the
+  information architecture of the document center, and write some API specifications.
   
   
 
@@ -48,11 +47,17 @@ My works
 
 
 | 
-=====================
+============
 🌃 Reading
-=====================
+============
 
 0. `DQTI (IBM) <https://chun5.github.io/works/>`_
+::
+
+  DQTI (Developing Quality Technical Information) is the great guide for technical writers.
+  
+
+
 1. IBM Style Guide - The Conventions for Writers and Editors
 2. Microsoft Style Guide
 3. A Practical Guide to Information Architecture
@@ -86,9 +91,14 @@ Experience
 
 1. Language
 ------------
-::
 
-  reStructuredText:
+`reStructuredText <https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html>`_
+=============================
+
+::
+  
+  Example:
+  
 
 ::
 
