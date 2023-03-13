@@ -6,8 +6,8 @@
 ---------------------------------
 ::
 
-  The project is developed to boost the financial inclusion by driving a significant increase 
-  in digital payments across the globe.
+  The project is developed to boost the financial inclusion by driving a significant
+  increase in digital payments across the globe.
   I am responsible for writing API specifications for the pay solution.
 
 
@@ -79,17 +79,19 @@ Experience
 ------------
 ::
 
-  reStructuredText:
+  **reStructuredText**
 
 ::
 
-  Markdown:
+  **Markdown**
 
 ::
-  XML:
+
+  **XML**
 
 ::
-  HTML:
+
+  **HTML**:
 
 
 
