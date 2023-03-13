@@ -191,7 +191,7 @@ Experience
 
 `reStructuredText <https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html>`_
 =============================
-
+https://z.rtfd.io
 ::
   
   Example:
@@ -312,7 +312,7 @@ Technical documents create great value for companies
   
   If it is clear to me, it should be clear to them by technical writing.
   
-  You can share this page https://z.rtfd.io with others. Have a beautiful day :)
+  You can share this page `https://z.rtfd.io <https://z.rtfd.io>`_ with others. Have a beautiful day :)
 
 
 
