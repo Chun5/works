@@ -4,8 +4,11 @@
 
 1. WorldFirst enterprise solution 
 ---------------------------------
-The project is developed to boost the financial inclusion by driving a significant increase in digital payments across the globe.
-I am responsible for writing API specification for the pay solution.
+::
+
+  The project is developed to boost the financial inclusion by driving a significant increase in digital payments across the globe.
+  I am responsible for writing API specification for the pay solution.
+
 
 My works
 ============
@@ -123,5 +126,6 @@ How big is the communication gap between developers and writers?
 =========
 This blog is written to present my works, and share valuable things on technical writing.
 Have a beautiful day :)
+
 
 
