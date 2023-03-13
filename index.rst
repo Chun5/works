@@ -2,13 +2,13 @@
 🌟 Writings
 =====================
 
-1. WorldFirst enterprise solution API Specification
----------------------------------------------------
+1. WorldFirst enterprise solution API specification
+----------------------------------------------------
 ::
 
   WorldFirst enterprise solution is developed to boost the financial inclusion by driving a
-  significant increase in digital payment across the globe. I write API specifications for the
-  payment related modules.
+  significant increase in digital payment across the globe. I cooperate with developers and
+  SAs, then write API specification documents for the payment related modules.
 
 
 My works
@@ -32,12 +32,13 @@ My works
  
  
 
-3. Zyla
----------
+3. Zyla documentation center
+-----------------------------
 ::
 
   Zyla is developed for cross-border businesses trading in multiple currencies. I design the
-  information architecture of the document center, and write some API specifications.
+  information architecture for the documentation center, draw API integration workflow chart,
+  and write user manual. I also work with US team members to publish the global documents.
   
   
 
@@ -152,7 +153,7 @@ Will technical writers be replaced by AI？
 ::
 
   The answer is no in the recent decade, but it could happen in 2050.
-  Technical writers can hardly be totally replaced by AI, no matter how advanced the AI brain is
+  Technical writers can hardly be totally replaced by AI, no matter how advanced AI brain is
   trained. In theory, it is a process AI infinitely approaches to replacing technical writers.
   
   1. It is so slow to witness the disappearance of an occupation.
@@ -170,9 +171,9 @@ What do we consider when reviewing a technical document?
 ::
 
   1. Exclude personal factors, like emotion, preference, and interests.
-  2. What is the audience it is written for?
-  3. If I were the user, am I clear to do the tasks?
-  4. Could I search what I want easily?
+  2. What is the audience of this document?
+  3. If I were the user, am I clear to do tasks?
+  4. Can I search what I want easily?
   
 
 How big is the communication gap between developers and writers?
