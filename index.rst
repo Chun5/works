@@ -2,12 +2,13 @@
 🌟 Writings
 =====================
 
-1. WorldFirst enterprise solution 
----------------------------------
+1. WorldFirst enterprise solution API Specification
+---------------------------------------------------
 ::
 
-  The project is developed to boost the financial inclusion by driving a significant increase in
-  digital payment across the globe. I write API specifications for the payment related modules.
+  WorldFirst enterprise solution is developed to boost the financial inclusion by driving a
+  significant increase in digital payment across the globe. I write API specifications for the
+  payment related modules.
 
 
 My works
@@ -16,10 +17,13 @@ My works
 
 
 
-2. WorldFirst developer center
--------------------------------
+2. WorldFirst developer center user manual
+------------------------------------------
+::
 
-This project is developed to 
+  WorldFirst developer center is a platform for developers and partners to build, test, and
+  launch WorldFirst products. I write this manual to guide developers through the integration
+  process and introduce tools to facilitate their integration with WorldFirst.
 
 
 My works
@@ -30,7 +34,13 @@ My works
 
 3. Zyla
 ---------
-Zyla is designed for cross-border businesses trading in multiple currencies.
+::
+
+  Zyla is developed for cross-border businesses trading in multiple currencies. I plan and design
+  the information architecture of its developer center.
+  
+  
+  
 
 My works
 =========
