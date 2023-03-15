@@ -265,8 +265,9 @@ Will technical writers be replaced by AI？
 What do we consider when reviewing a technical document?
 ========================================================
 ::
-When reviewing a technical document, need I consider the writing style?
-How could I ensure that I'm not manipulated by my strong bias when reviewing the document?
+
+  When reviewing a technical document, need I consider the writing style?
+  How could I ensure that I'm not manipulated by my strong bias when reviewing the document?
 
   1. Exclude personal factors, like emotion, preference, and interests.
   2. What is the audience of this document?
