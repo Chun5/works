@@ -256,8 +256,8 @@ Will technical writers be replaced by AI？
   2. AI does have bugs or weakness in wording, rhetoric, contextual analysis, etc.
   
   3. Concerning creative writing, such as suspense novel, for now, AI is not competent to do
-  this kind of work, or deal with it unsatisfactorily. Although we can see AI is producing
-  articles to the public and people can not recognize that they are written by some machine.
+  this kind of work, or deal with it satisfactorily. Although we can see AI is producing
+  articles to the public and people can not recognize that they are written by the computers.
   
   For details, please refer to my articles on Github.
 
@@ -265,6 +265,8 @@ Will technical writers be replaced by AI？
 What do we consider when reviewing a technical document?
 ========================================================
 ::
+When reviewing a technical document, need I consider the writing style?
+How could I ensure that I'm not manipulated by my strong bias when reviewing the document?
 
   1. Exclude personal factors, like emotion, preference, and interests.
   2. What is the audience of this document?
