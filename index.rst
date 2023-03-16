@@ -194,7 +194,8 @@ Experience
 
 ::
   
-  Example:
+  * > *italic*
+  ** > **bold**
   
 
 ::
@@ -227,12 +228,8 @@ Experience
 ::
 
   Slack
-  
-::
- 
   Jira
-  
-
+  Box
 
 
 
@@ -248,12 +245,30 @@ Will technical writers be replaced by AI？
 ==========================================
 ::
 
-  The answer is no in the recent decade, but it could happen in 2050.
-  Technical writers can hardly be totally replaced by AI, no matter how advanced AI brain is
-  trained. In theory, it is a process AI infinitely approaches to replacing technical writers.
+  My answer is no in the recent decade, but it could happen in 2050.
+  Technical writers could hardly be replaced by AI completely, no matter how advanced AI brain
+  is trained. In theory, it is a process AI infinitely approaches to replacing technical writers.
   
-  1. It is so slow to witness the disappearance of an occupation.
-  2. AI does have bugs or weakness in wording, rhetoric, contextual analysis, etc.
+  From the historic perspective, it is so slow to witness an occupation disappears, especially
+  the occupation that lives a long time and needs human wisdom and creativity.
+  
+  Besides, AI does have bugs and weakness in wording, rhetoric, contextual analysis, etc. This
+  implies that the current AI is not ready for completing high-level writing jobs.
+  
+  It is worth noting that ChatGPT, the household AI application, becomes the significant turning
+  point to technical writers' career. The days get closer, no doubt.
+  
+  Probably in the coming decade, we will see more and more writing jobs are taken over by AI.
+  Meanwhile, we technical writers, or some of us will still be working on our familiar tasks,
+  such as writing user guides or API specifications. 
+  
+  Because not all companies believe in AI's ability in writing technical documents, though they
+  are much easier than suspense novel for AI. Moreover, information security and AI's 
+  understanding on our real requirement should be carefully considered.
+  
+  
+  
+  Do you believe humankind will be commanded by machines?
   
   3. Concerning creative writing, such as suspense novel, for now, AI is not competent to do
   this kind of work, or deal with it satisfactorily. Although we can see AI is producing
