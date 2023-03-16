@@ -13,7 +13,7 @@
 
 My works
 ============
-- `Submit trade order API <https://developers.worldfirst.com.cn/docs/alipay-worldfirst/worldfirst_enterprise_solution/submit_trade_order>`_
+- `API specification <https://developers.worldfirst.com.cn/docs/alipay-worldfirst/worldfirst_enterprise_solution/submit_trade_order>`_
 
 
 
@@ -44,7 +44,7 @@ My works
 
 My works
 =========
-- `Zyla enterprise solution <https://developers.zyla.com/docs/zyla-developer-doc/zyla_enterprise_solution/overview>`_
+- `Documentation center IA <https://developers.zyla.com/docs/>`_
 
 
 | 
