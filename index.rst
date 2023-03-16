@@ -194,8 +194,8 @@ Experience
 
 ::
   
-  * > *italic*
-  ** > **bold**
+  *content* > italic
+  **content** > bold
   
 
 ::
@@ -227,9 +227,9 @@ Experience
 ----------------------------
 ::
 
-  Slack
-  Jira
-  Box
+  Jira: Manage and track projects and issues.
+  Slack: Communicate and collaborate with teammates.
+  Box: Store and manage your cloud content.
 
 
 
@@ -247,7 +247,7 @@ Will technical writers be replaced by AI？
 
   My answer is no in the recent decade, but it could happen in 2050.
   Technical writers could hardly be replaced by AI completely, no matter how advanced AI brain
-  is trained. In theory, it is a process AI infinitely approaches to replacing technical writers.
+  is trained. It is a process AI infinitely approaches to replacing technical writers.
   
   From the historic perspective, it is so slow to witness an occupation disappears, especially
   the occupation that lives a long time and needs human wisdom and creativity.
