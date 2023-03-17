@@ -122,8 +122,8 @@ QTI's characteristics:
 Reading list
 =============
 
-  1. IBM Style Guide - The Conventions for Writers and Editors
-  2. Microsoft Style Guide
+ 1. IBM Style Guide - The Conventions for Writers and Editors
+ 2. Microsoft Style Guide
   3. A Practical Guide to Information Architecture
   4. Understanding Your Users - A Practical Guide to User Research Methods
   5. Managing Enterprise Content
@@ -178,10 +178,12 @@ reStructuredText
   
   1. *content*  (italic effect)
   2. **content**  (bold effect)
+  
   3. content
   -----------  (main title effect)
   4. content
-  ===========  (subtitle effect)  
+  ===========  (subtitle effect)
+  
   5. - content > · content (bullet effect)
 
 
@@ -273,7 +275,8 @@ Discussion
   For details, please refer to my articles on Github.
 
 
-- What do we consider when reviewing a technical document?
+- **What do we consider when reviewing a technical document?**
+
 ::
 
   When reviewing a technical document, need I consider the writing style?
@@ -295,12 +298,12 @@ Discussion
 
 
 
-- **Wearable user guide of product**
+- **Wearable user guide**
 
 ::
 
-  1. AR for product guide
-  2. How to achieve it?
+  1. AR for product user guide
+  2. The content design for AR, like audio, menu, video, etc.
   3. Examples of AR companies
 
 
