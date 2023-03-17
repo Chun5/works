@@ -300,8 +300,8 @@ Discussion
 
 
 |
-New application to TW
-----------------------
+New application in TW field
+---------------------------
 
 - **Wearable user guide**
 
@@ -350,6 +350,7 @@ This blog is written by Austen to share learning outcome and ideas on technical 
 You can share this page https://z.rtfd.io with others.
 
    If it is clear to me, it should be clear to them by technical writing.
+   
    | --- Austen, a technical writer from China
 
 Have a beautiful day : )
