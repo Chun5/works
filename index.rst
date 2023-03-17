@@ -120,8 +120,7 @@ QTI's characteristics:
 
 |
 Reading list
-============
-::
+=============
 
   1. IBM Style Guide - The Conventions for Writers and Editors
   2. Microsoft Style Guide
@@ -236,8 +235,11 @@ HTML
 🌟 Inspiration
 ================
 
-Will technical writers be replaced by AI？
-==========================================
+Discussion
+-----------
+
+- **Will technical writers be replaced by AI?**
+
 ::
 
   My answer is no in the recent decade, but it could happen in 2050.
@@ -262,7 +264,6 @@ Will technical writers be replaced by AI？
   understanding on our real requirement should be carefully considered.
   
   
-  
   Do you believe humankind will be commanded by machines?
   
   3. Concerning creative writing, such as suspense novel, for now, AI is not competent to do
@@ -272,8 +273,7 @@ Will technical writers be replaced by AI？
   For details, please refer to my articles on Github.
 
 
-What do we consider when reviewing a technical document?
-========================================================
+- What do we consider when reviewing a technical document?
 ::
 
   When reviewing a technical document, need I consider the writing style?
@@ -285,8 +285,8 @@ What do we consider when reviewing a technical document?
   4. Can I search what I want easily?
   
 
-How big is the communication gap between developers and writers?
-=================================================================
+- **How big is the communication gap between developers and writers?**
+
 ::
 
   1. The unsettled problems, as well as ignored issues, cause the big communication gap today.
@@ -295,8 +295,8 @@ How big is the communication gap between developers and writers?
 
 
 
-Wearable user guide
---------------------
+- **Wearable user guide of product**
+
 ::
 
   1. AR for product guide
@@ -305,8 +305,8 @@ Wearable user guide
 
 
 
-Technical documents create great value for companies
------------------------------------------------------
+- **Technical documents create great value for companies**
+
 ::
 
   1. Company asset
@@ -315,8 +315,8 @@ Technical documents create great value for companies
   4. Company image
 
 
-Good habits for technical writing
-----------------------------------
+- **Good habits for technical writing**
+
 ::
 
   1. Learn, summarize, then clear the collections in your websites and applications.
