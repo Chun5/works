@@ -97,18 +97,15 @@ QTI's characteristics:
 - **Easy to use**
 ::
   
-   Task orientation: In the context of a product, a focus on helping users do tasks that
-   support their goals
+   Task orientation: A focus on helping users do tasks that support their goals
    Accuracy: Freedom from mistake or error; adherence to fact or truth
    Completeness: The inclusion of all necessary parts-and only those parts
 
 - **Easy to understand**
 ::
 
-   Clarity: Freedom from ambiguity or obscurity; using language in such a way that users
-   understand it the first time that they read it
-   Concreteness: The inclusion of appropriate examples, scenarios, similes, analogies,
-   specific language, and graphics
+   Clarity: Freedom from ambiguity or obscurity; using language clear to understand
+   Concreteness: The inclusion of appropriate examples, scenarios, analogies, and graphics
    Style: Correctness and appropriateness of writing conventions and of words and phrases
   
 - **Easy to find**
@@ -126,24 +123,18 @@ QTI's characteristics:
 
 
 |
-1. IBM Style Guide - The Conventions for Writers and Editors
-------------------------------------------------------------
+Reading list
+::
 
-|
-2. Microsoft Style Guide
--------------------------
-|
-3. A Practical Guide to Information Architecture
---------------------------------------------------
-|
-4. Understanding Your Users - A Practical Guide to User Research Methods
-------------------------------------------------------------------------
-|
-5. Managing Enterprise Content
-6. Content Strategy for the Web
-7. Docs for Developers - An Engineer’s Field Guide to Technical Writing
-8. Handbook of Technical Writing
-9. SAP Style Guide For Technical Communication
+  1. IBM Style Guide - The Conventions for Writers and Editors
+  2. Microsoft Style Guide
+  3. A Practical Guide to Information Architecture
+  4. Understanding Your Users - A Practical Guide to User Research Methods
+  5. Managing Enterprise Content
+  6. Content Strategy for the Web
+  7. Docs for Developers - An Engineer’s Field Guide to Technical Writing
+  8. Handbook of Technical Writing
+  9. SAP Style Guide For Technical Communication
 
 
 
