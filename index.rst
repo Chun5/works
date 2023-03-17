@@ -170,13 +170,14 @@ Reading list
 Quick reference
 ::
   
-  *content* > italic effect
-  **content** > bold effect
-  content
-  -------  > main title 
-  content
-  =======  > subtitle 
-  - content > 
+  1. *content*  (italic effect)
+  2. **content**  (bold effect)
+  3. content
+  -----------  (main title effect)
+  4. content
+  ===========  (subtitle effect)  
+  5. - content > · content (bullet effect)
+
 
 ::
 
