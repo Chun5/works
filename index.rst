@@ -134,7 +134,6 @@ Reading list
 
 
 
-
 | 
 ===========
 ✨ Career
@@ -246,35 +245,36 @@ Discussion
 
 ::
 
-  My answer is no in the recent decade, but it could happen in 2050.
+  My answer is no in the recent decade, but it could happen in 2050 when half of TW disappear.
+  
   Technical writers could hardly be replaced by AI completely, no matter how advanced AI brain
   is trained. It is a process AI infinitely approaches to replacing technical writers.
   
   From the historic perspective, it is so slow to witness an occupation disappears, especially
-  the occupation that lives a long time and needs human wisdom and creativity.
+  the occupation that lives a much long time and needs human wisdom as well as creativity.
+
+::
+
+  Besides, AI does have bugs and weakness in wording, rhetoric, contextual analysis, etc.
+  This implies that the current AI is not ready for completing high-level writing jobs.
   
-  Besides, AI does have bugs and weakness in wording, rhetoric, contextual analysis, etc. This
-  implies that the current AI is not ready for completing high-level writing jobs.
+  Not all companies believe in AI's ability in writing technical documents, though they are much
+  easier than suspense novel for AI. Moreover, information security and AI's understanding on
+  our real requirement should be carefully considered.
+    
+  Concerning creative writing, such as suspense novel, for now, AI is not competent to do
+  this kind of work, or deal with it satisfactorily. Although we can see AI is producing
+  articles to the public and people can not recognize that they are written by the computers.
   
-  It is worth noting that ChatGPT, the household AI application, becomes the significant turning
-  point to technical writers' career. The days get closer, no doubt.
+
+::
+
+  But the days get closer. It is worth noting that ChatGPT, the household AI application, 
+  becomes the significant turning point to TW' career. Closer, no doubt.
   
   Probably in the coming decade, we will see more and more writing jobs are taken over by AI.
   Meanwhile, we technical writers, or some of us will still be working on our familiar tasks,
   such as writing user guides or API specifications. 
-  
-  Because not all companies believe in AI's ability in writing technical documents, though they
-  are much easier than suspense novel for AI. Moreover, information security and AI's 
-  understanding on our real requirement should be carefully considered.
-  
-  
-  Do you believe humankind will be commanded by machines?
-  
-  3. Concerning creative writing, such as suspense novel, for now, AI is not competent to do
-  this kind of work, or deal with it satisfactorily. Although we can see AI is producing
-  articles to the public and people can not recognize that they are written by the computers.
-  
-  For details, please refer to my articles on Github.
 
 
 - **What do we consider when reviewing a technical document?**
@@ -299,6 +299,8 @@ Discussion
   3. How to deploy the Dev-writer?
 
 
+New application to TW
+---------------------
 
 - **Wearable user guide**
 
@@ -310,6 +312,22 @@ Discussion
 
 
 
+How to write better technical document?
+----------------------------------------
+
+- **Good habits for technical writing**
+
+::
+
+  1. Learn, summarize, then clear your website collections.
+  2. Make note if you find a friendly and simple writing style.
+  3. Check and improve the UI copywriting when using a product.
+
+
+
+TW's value
+------------
+
 - **Technical documents create great value for companies**
 
 ::
@@ -320,13 +338,6 @@ Discussion
   4. Company image
 
 
-- **Good habits for technical writing**
-
-::
-
-  1. Learn, summarize, then clear the collections in your websites and applications.
-  2. Make note if you find a friendly and simple writing style.
-  3. Check and improve the UI copywriting when using a product.
 
 
 |
