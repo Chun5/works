@@ -122,11 +122,11 @@ QTI's characteristics:
 Reading list
 =============
 
- 1. IBM Style Guide - The Conventions for Writers and Editors
- 2. Microsoft Style Guide
-  3. A Practical Guide to Information Architecture
-  4. Understanding Your Users - A Practical Guide to User Research Methods
-  5. Managing Enterprise Content
+1. IBM Style Guide - The Conventions for Writers and Editors
+2. Microsoft Style Guide
+ 3. A Practical Guide to Information Architecture
+ 4. Understanding Your Users - A Practical Guide to User Research Methods
+ 5. Managing Enterprise Content
   6. Content Strategy for the Web
   7. Docs for Developers - An Engineer’s Field Guide to Technical Writing
   8. Handbook of Technical Writing
@@ -143,7 +143,8 @@ Reading list
 - Career path
 ::
 
-  1. 
+  1. Senior technical writer
+  2. 
   
 
 - Experience sharing
@@ -215,11 +216,10 @@ HTML
 -----------------------------
 ::
 
-  Sphinx
+  1) Sphinx
 
-::
+  2) Visual Studio Code
 
-  Visual Studio Code
 
 
 3. Project management tool
@@ -227,7 +227,9 @@ HTML
 ::
 
   1) Jira: Manage and track projects and issues.
+
   2) Slack: Communicate and collaborate with teammates.
+
   3) Box: Store and manage your cloud content.
 
 
