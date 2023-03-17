@@ -144,18 +144,23 @@ Reading list
 - Career path
 ::
 
-  test
+  1. 
   
 
 - Experience sharing
 ::
   
-  ok
+  1. From 
+  2. From 
+  
   
 - 0-1-5-20-100
 ::
 
-  0
+  0:
+  1:
+  5:
+  
 
 |
 =========
@@ -165,12 +170,13 @@ Reading list
 1. Language
 ------------
 
-`reStructuredText <https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html>`_
-=============================
+reStructuredText
+================
 
 ::
 
   Quick reference:
+  
   1. *content*  (italic effect)
   2. **content**  (bold effect)
   3. content
@@ -226,12 +232,9 @@ HTML
 
 
 |
-==================
+================
 🌟 Inspiration
-==================
-
-Discussion
--------------
+================
 
 Will technical writers be replaced by AI？
 ==========================================
@@ -316,7 +319,7 @@ Good habits for technical writing
 ----------------------------------
 ::
 
-  1. Read, summarize, and clear the collections in your websites and applications.
+  1. Learn, summarize, then clear the collections in your websites and applications.
   2. Make note if you find a friendly and simple writing style.
   3. Check and improve the UI copywriting when using a product.
 
