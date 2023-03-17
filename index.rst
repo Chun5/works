@@ -141,14 +141,21 @@ Reading list
 ✨ Career
 ===========
 
-Career path
---------------
+- Career path
+::
 
-Experience sharing
->>>>>>>>>>>>>>>>>>>
+  test
+  
 
-0-1-5-20-100
-:::::::::::::::
+- Experience sharing
+::
+  
+  ok
+  
+- 0-1-5-20-100
+::
+
+  0
 
 |
 =========
@@ -160,8 +167,7 @@ Experience sharing
 
 `reStructuredText <https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html>`_
 =============================
-Quick reference:
-Note: > means to show/present
+Quick reference
 ::
   
   *content* > italic effect
