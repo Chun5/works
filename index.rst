@@ -299,8 +299,9 @@ Discussion
   3. How to deploy the Dev-writer?
 
 
+|
 New application to TW
----------------------
+----------------------
 
 - **Wearable user guide**
 
@@ -311,9 +312,9 @@ New application to TW
   3. Examples of AR companies
 
 
-
-How to write better technical document?
-----------------------------------------
+| 
+Writing better technical document
+----------------------------------
 
 - **Good habits for technical writing**
 
@@ -324,7 +325,7 @@ How to write better technical document?
   3. Check and improve the UI copywriting when using a product.
 
 
-
+| 
 TW's value
 ------------
 
@@ -348,9 +349,8 @@ TW's value
 This blog is written by Austen to share learning outcome and ideas on technical writing.
 You can share this page https://z.rtfd.io with others.
 
-  If it is clear to me, it should be clear to them by technical writing.
-  
-  | --- Austen, a technical writer from China
+   If it is clear to me, it should be clear to them by technical writing.
+   | --- Austen, a technical writer from China
 
 Have a beautiful day : )
 
