@@ -52,9 +52,9 @@ My works
 📚 Learning
 ============
 
-0. DQTI
------------------------------------------------
-Developing Quality Technical Information, IBM
+IBM DQTI
+-----------------------------------------
+Developing Quality Technical Information
 
 Technical information continues to evolve
 ============================================
@@ -97,33 +97,30 @@ QTI's characteristics:
 - **Easy to use**
 ::
   
-   Task orientation: A focus on helping users do tasks that support their goals
-   Accuracy: Freedom from mistake or error; adherence to fact or truth
-   Completeness: The inclusion of all necessary parts-and only those parts
+   1. Task orientation: A focus on helping users do tasks that support their goals
+   2. Accuracy: Freedom from mistake or error; adherence to fact or truth
+   3. Completeness: The inclusion of all necessary parts-and only those parts
 
 - **Easy to understand**
 ::
 
-   Clarity: Freedom from ambiguity or obscurity; using language clear to understand
-   Concreteness: The inclusion of appropriate examples, scenarios, analogies, and graphics
-   Style: Correctness and appropriateness of writing conventions and of words and phrases
+   1. Clarity: Freedom from ambiguity or obscurity; using language clear to understand
+   2. Concreteness: The inclusion of appropriate examples, scenarios, analogies, and graphics
+   3. Style: Correctness and appropriateness of writing conventions and of words and phrases
   
 - **Easy to find**
 ::
 
-   Organization: A coherent arrangement of parts that makes sense to the user
-   Retrievability: The presentation of information in a way that enables users to find
+   1. Organization: A coherent arrangement of parts that makes sense to the user
+   2. Retrievability: The presentation of information in a way that enables users to find
    specific items quickly and easily
-   Visual effectiveness: Attractiveness and enhanced meaning of information through the 
+   3. Visual effectiveness: Attractiveness and enhanced meaning of information through the 
    use of layout, illustrations, color, typography, icons, and other graphical devices
-
-
-
-
 
 
 |
 Reading list
+============
 ::
 
   1. IBM Style Guide - The Conventions for Writers and Editors
@@ -147,10 +144,11 @@ Reading list
 Career path
 --------------
 
-Experience
---------------
+Experience sharing
+>>>>>>>>>>>>>>>>>>>
 
-
+0-1-5-20-100
+:::::::::::::::
 
 |
 =========
@@ -162,12 +160,17 @@ Experience
 
 `reStructuredText <https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html>`_
 =============================
-
+Quick reference:
+Note: > means to show/present
 ::
   
-  *content* > italic
-  **content** > bold
-  
+  *content* > italic effect
+  **content** > bold effect
+  content
+  -------  > main title 
+  content
+  =======  > subtitle 
+  - content > 
 
 ::
 
