@@ -49,23 +49,16 @@ My works
 
 | 
 ============
-📚 Reading
+📚 Learning
 ============
 
-0. DQTI (IBM)
--------------------------------------------------
-::
+0. DQTI
+-----------------------------------------------
+Developing Quality Technical Information, IBM
 
-  DQTI (Developing Quality Technical Information) is the great guide for technical writers.
-  
-Chapter 1: Technical information continues to evolve
-=====================================================
+Technical information continues to evolve
+============================================
 ::
-
-  A new generation of technology-savvy users is entering the workforce, existing workers are
-  becoming more adept, and technology is becoming more sophisticated. Because of these changes,
-  the emphasis is on more usable, intuitive, and appealing products. Now we need to expand our
-  focus beyond topic-based information and onto the product user interfaces themselves.
   
   Information that you put in an installation guide is not appropriate in an application
   development guide. Different interface display mechanisms require different types of
@@ -76,23 +69,16 @@ Chapter 1: Technical information continues to evolve
   valuable member of your product team.
 
 
-The TW's role today
-=====================
 ::
   
   We are more involved with product design and user interface development, which means that we
-  must be involved earlier than ever in the development cycle. The historic waterfall
-  development process is made up of specific phases in which each participating team finishes
-  its work and hands it to the next team. The problem with this process is that downstream teams
-  have very little chance to change anything that happened upstream. Furthermore, because
-  documentation is developed close to the end of the cycle, documentation often tries to 
-  describe a poor design that can no longer be changed. Too often, technical writers who work in
-  a waterfall development process must write comprehensive documentation that needs to atone for 
-  unwieldy design.
+  must be involved earlier than ever in the development cycle. The problem with the historic 
+  waterfall development process is that downstream teams have very little chance to change 
+  anything that happened upstream.Too often, technical writers who work in a waterfall 
+  development process must write comprehensive documentation that needs to atone for unwieldy 
+  design.
 
 
-Redefining quality technical information
-========================================
 ::
 
   An overwhelming majority of customers report that information quality both affects their view 
@@ -109,38 +95,32 @@ Redefining quality technical information
 QTI's characteristics:
 ======================
 - **Easy to use**
-
-  + Task orientation: In the context of a product, a focus on helping users do tasks that
-    support their goals
-
-  - Accuracy: Freedom from mistake or error; adherence to fact or truth
-
-  * Completeness: The inclusion of all necessary parts-and only those parts
+::
+  
+   Task orientation: In the context of a product, a focus on helping users do tasks that
+   support their goals
+   Accuracy: Freedom from mistake or error; adherence to fact or truth
+   Completeness: The inclusion of all necessary parts-and only those parts
 
 - **Easy to understand**
+::
 
-  + Clarity: Freedom from ambiguity or obscurity; using language in such a way that users
-    understand it the first time that they read it
-    
-  - Concreteness: The inclusion of appropriate examples, scenarios, similes, analogies,
-    specific language, and graphics  
-
-  * Style: Correctness and appropriateness of writing conventions and of words and phrases
+   Clarity: Freedom from ambiguity or obscurity; using language in such a way that users
+   understand it the first time that they read it
+   Concreteness: The inclusion of appropriate examples, scenarios, similes, analogies,
+   specific language, and graphics
+   Style: Correctness and appropriateness of writing conventions and of words and phrases
   
 - **Easy to find**
+::
 
-  + Organization: A coherent arrangement of parts that makes sense to the user
-  
-  - Retrievability: The presentation of information in a way that enables users to find
-    specific items quickly and easily
-
-  * Visual effectiveness: Attractiveness and enhanced meaning of information through the 
-    use of layout, illustrations, color, typography, icons, and other graphical devices
-
+   Organization: A coherent arrangement of parts that makes sense to the user
+   Retrievability: The presentation of information in a way that enables users to find
+   specific items quickly and easily
+   Visual effectiveness: Attractiveness and enhanced meaning of information through the 
+   use of layout, illustrations, color, typography, icons, and other graphical devices
 
 
-Chapter 2: Developing quality technical information
-====================================================
 
 
 
