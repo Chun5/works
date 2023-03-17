@@ -167,9 +167,9 @@ Reading list
 
 `reStructuredText <https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html>`_
 =============================
-Quick reference
+
 ::
-  
+  Quick reference:
   1. *content*  (italic effect)
   2. **content**  (bold effect)
   3. content
@@ -179,18 +179,19 @@ Quick reference
   5. - content > · content (bullet effect)
 
 
+Markdown
+========
 ::
 
-  Markdown:
+  Quick reference:
+  
 
+XML
+====
 ::
 
-  XML:
-
-::
-
-  HTML:
-
+HTML
+====
 
 
 2. Document management tool
