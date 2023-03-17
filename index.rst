@@ -169,6 +169,7 @@ Reading list
 =============================
 
 ::
+
   Quick reference:
   1. *content*  (italic effect)
   2. **content**  (bold effect)
@@ -190,9 +191,18 @@ XML
 ====
 ::
 
+  Quick reference:
+
+
+
 HTML
 ====
+::
 
+  Quick reference:
+  
+  
+  
 
 2. Document management tool
 -----------------------------
@@ -209,16 +219,16 @@ HTML
 ----------------------------
 ::
 
-  Jira: Manage and track projects and issues.
-  Slack: Communicate and collaborate with teammates.
-  Box: Store and manage your cloud content.
+  1) Jira: Manage and track projects and issues.
+  2) Slack: Communicate and collaborate with teammates.
+  3) Box: Store and manage your cloud content.
 
 
 
 |
-=====================
+==================
 🌟 Inspiration
-=====================
+==================
 
 Discussion
 -------------
@@ -300,6 +310,15 @@ Technical documents create great value for companies
   2. Entrance to products
   3. Cut the cost
   4. Company image
+
+
+Good habits for technical writing
+----------------------------------
+::
+
+  1. Read, summarize, and clear the collections in your websites and applications.
+  2. Make note if you find a friendly and simple writing style.
+  3. Check and improve the UI copywriting when using a product.
 
 
 |
