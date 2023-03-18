@@ -235,10 +235,21 @@ XML
 ====
 - eXtensible Markup Language is a markup language used for storing and transporting data.
 - Function: data transmission (primary), file configuration (config.xml), data storing.
+- Custom tag is a must and case sensitive.
+
+**XML file sample**
+
+::
+
+  <?xml version='1.0' encoding="utf-8" ?>
+  <root>
+  <user> Austen </user>
+  </root>
+
 
 ::
   
-  Quick syntax reference:
+  Syntax reference in Oxygen XML:
   
   <title>
   <shortdesc>
@@ -258,9 +269,22 @@ HyperText Markup Language is the standard markup language for Web pages.
 
 ::
   
-  Quick syntax reference:
+  Syntax reference:
+  
+
+::
+
+  HTML vs. XML
+  
+  1. HTML does not have custom tags while XML does.
+  
+  2. HTML's syntax is loose, and XML's syntax is strict with paired tags.
+  
+  3. HTML is used to display data, and XML is to transmit and store data.
   
   
+
+
   
 |
 2. Document management tool
