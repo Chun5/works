@@ -146,7 +146,14 @@ Reading list
 **DITA**
 ::
 
-  Information type: concept, task, reference
+  Information type:
+  Concept: describe what it is; see syntax at Tools > Langauge > XML
+  
+  Task: step 1, step 2, step 3... ; substep a, substep b, substep c; cmd, info, note
+  
+  Reference: table, entry
+  
+  DITA Map
   
 
 **DQTI**
@@ -220,6 +227,16 @@ eXtensible Markup Language is a markup language used for storing and transportin
 ::
   
   Quick syntax reference:
+  
+  <title>
+  <shortdesc>
+  <conbody>  (add elements to concept's description)
+  <section>  (organize conceptual information)
+  <sl>  (short/simple item list)
+  <ul>  (unordered bulleted list)
+  <dl>  (a list of terms and definitions)
+  <fig> or <image>  (insert graphics)
+  <term>  (highlight new terms)
 
 
 
