@@ -169,10 +169,10 @@ Reading list
 
 reStructuredText
 ================
-
-::
+ reStructuredText is a plaintext markup language used in static site generators like Sphinx.
   
-  reStructuredText is a plaintext markup language used in static site generators like Sphinx.
+::
+ 
   
   Quick syntax reference:
   
@@ -184,7 +184,7 @@ reStructuredText
   4. content
   ===========  (subtitle effect)
   
-  5. - content  (bullet effect)
+  5. - content  (unnumbered bullet list effect)
   6. ::
   
        content  (word block quotation)
@@ -193,9 +193,9 @@ reStructuredText
 
 Markdown
 ========
-::
-
   Markdown is a lightweight markup language for creating formatted text using a plaintext editor.
+
+::
   
   Quick syntax reference:
   
@@ -207,7 +207,7 @@ Markdown
   5. ## content  (2nd level title)
   6. ### content  (3rd level title)
   
-  7. - content  (bullet effect)
+  7. - content  (unnumbered bullet list effect)
   8. > content  (quotation effect)
   9. ---  (break line)
 
@@ -313,8 +313,11 @@ Discussion
   How could I ensure that I'm not controlled by my strong bias when reviewing the document?
 
   1. Exclude personal factors, like emotion, preference, and interests.
+  
   2. What is the audience of this document?
+  
   3. If I were the user, am I clear to do tasks?
+  
   4. Can I search what I want easily?
   
 
@@ -323,7 +326,9 @@ Discussion
 ::
 
   1. The unsettled problems, as well as ignored issues, cause the big communication gap today.
+  
   2. A new role Linguistic Lark is born to resolve the communication problem between Dev and TW.
+  
   3. How to deploy the Dev-writer?
 
 
@@ -336,7 +341,9 @@ New application in TW field
 ::
 
   1. AR for product user guide
+  
   2. The content design for AR, like audio, menu, video, etc.
+  
   3. Examples of AR companies
 
 
@@ -349,7 +356,9 @@ Writing better technical document
 ::
 
   1. Learn, summarize, then clear your website collections.
+  
   2. Make note if you find a friendly and simple writing style.
+  
   3. Check and improve the UI copywriting when using a product.
 
 
@@ -362,11 +371,12 @@ TW's value
 ::
 
   1. Company asset
-  2. Entrance to products
-  3. Cut the cost
-  4. Company image
+  
+  2. Cost cutting
+  
+  3. Company image
 
-
+  4. Entrance to products
 
 
 
@@ -379,6 +389,7 @@ TW's value
 ::
 
   1. Senior technical writer
+  
   2. 
   
 
@@ -393,7 +404,9 @@ TW's value
 ::
 
   0:
+  
   1:
+  
   5:
   
 
