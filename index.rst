@@ -234,6 +234,7 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 XML
 ====
 eXtensible Markup Language is a markup language used for storing and transporting data.
+Function: data transmission (primary), file configuration (config.xml), data storing.
 
 ::
   
