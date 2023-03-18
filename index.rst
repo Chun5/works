@@ -144,17 +144,24 @@ Reading list
 ==============
 
 **DITA**
+
+Information type:
 ::
 
-  Information type:
   Concept: describe what it is; see syntax at Tools > Langauge > XML
   
   Task: step 1, step 2, step 3... ; substep a, substep b, substep c; cmd, info, note
   
   Reference: table, entry
-  
+
+
+::
+
   DITA Map
-  
+
+
+
+
 
 **DQTI**
 ::
@@ -282,7 +289,6 @@ Discussion
 -----------
 
 - *Will technical writers be replaced by AI?*
-============================================
 
 ::
 
@@ -339,7 +345,7 @@ Discussion
   4. Can I search what I want easily?
   
 
-- **How big is the communication gap between developers and writers?**
+- *How big is the communication gap between developers and writers?*
 
 ::
 
