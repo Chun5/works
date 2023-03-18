@@ -281,7 +281,8 @@ HyperText Markup Language is the standard markup language for Web pages.
 Discussion
 -----------
 
-- **Will technical writers be replaced by AI?**
+- *Will technical writers be replaced by AI?*
+============================================
 
 ::
 
