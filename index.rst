@@ -143,9 +143,10 @@ Reading list
 ⚙️ Methodology
 ==============
 
-**DITA**
+DITA
+-----
 
-Information type:
+**Information type**
 ::
 
   Concept: describe what it is; see syntax at Tools > Langauge > XML
@@ -155,15 +156,18 @@ Information type:
   Reference: table, entry
 
 
+**DITA Map**
 ::
 
-  DITA Map
+  ABC
 
 
 
 
 
-**DQTI**
+DQTI
+-----
+
 ::
 
   1
@@ -257,17 +261,17 @@ HyperText Markup Language is the standard markup language for Web pages.
   
   
   
-
+|
 2. Document management tool
 -----------------------------
 ::
 
-  1) Sphinx
+  1) Sphinx: Create intelligent and beautiful documentation easily by reStructuredText.
 
-  2) Visual Studio Code
+  2) Visual Studio Code: a code editor redefined/optimized for building/debugging Apps.
 
 
-
+|
 3. Project management tool
 ----------------------------
 ::
@@ -409,7 +413,7 @@ TW's value
 ✨ Career
 ===========
 
-- Career path
+- **Career path**
 ::
 
   1. Senior technical writer
@@ -417,14 +421,14 @@ TW's value
   2. 
   
 
-- Experience sharing
+- **Experience sharing**
 ::
   
   1. From 
   2. From 
   
   
-- 0-1-5-20-100
+- **0-1-5-20-100**
 ::
 
   0:
