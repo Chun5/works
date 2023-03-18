@@ -59,7 +59,7 @@ Developing Quality Technical Information
 Technical information continues to evolve
 ============================================
 ::
-  
+    
   Information that you put in an installation guide is not appropriate in an application
   development guide. Different interface display mechanisms require different types of
   information.
@@ -74,9 +74,8 @@ Technical information continues to evolve
   We are more involved with product design and user interface development, which means that we
   must be involved earlier than ever in the development cycle. The problem with the historic 
   waterfall development process is that downstream teams have very little chance to change 
-  anything that happened upstream.Too often, technical writers who work in a waterfall 
-  development process must write comprehensive documentation that needs to atone for unwieldy 
-  design.
+  anything that happened upstream. Develop ever smaller chunks of information to address the 
+  changing needs of users.
 
 
 ::
@@ -89,7 +88,6 @@ Technical information continues to evolve
   beginning to end to find those answers. Quality information addresses users where they are.
   Writers must apply their own skills and expertise based on solid research and proven methods.
   
-  Develop ever smaller chunks of information to address the changing needs of users.
 
 
 QTI's characteristics:
@@ -98,22 +96,28 @@ QTI's characteristics:
 ::
   
    1. Task orientation: A focus on helping users do tasks that support their goals
+   
    2. Accuracy: Freedom from mistake or error; adherence to fact or truth
+   
    3. Completeness: The inclusion of all necessary parts-and only those parts
 
 - **Easy to understand**
 ::
 
    1. Clarity: Freedom from ambiguity or obscurity; using language clear to understand
+   
    2. Concreteness: The inclusion of appropriate examples, scenarios, analogies, and graphics
+   
    3. Style: Correctness and appropriateness of writing conventions and of words and phrases
   
 - **Easy to find**
 ::
 
    1. Organization: A coherent arrangement of parts that makes sense to the user
+   
    2. Retrievability: The presentation of information in a way that enables users to find
    specific items quickly and easily
+   
    3. Visual effectiveness: Attractiveness and enhanced meaning of information through the 
    use of layout, illustrations, color, typography, icons, and other graphical devices
 
@@ -134,32 +138,26 @@ Reading list
 
 
 
-| 
-===========
-✨ Career
-===========
+|
+==============
+⚙️ Methodology
+==============
 
-- Career path
+**DITA**
 ::
 
-  1. Senior technical writer
-  2. 
+  Information type: concept, task, reference
   
 
-- Experience sharing
-::
-  
-  1. From 
-  2. From 
-  
-  
-- 0-1-5-20-100
+**DQTI**
 ::
 
-  0:
-  1:
-  5:
-  
+  1
+
+
+
+
+
 
 |
 =========
@@ -173,8 +171,10 @@ reStructuredText
 ================
 
 ::
-
-  Quick reference:
+  
+  reStructuredText is a plaintext markup language used in static site generators like Sphinx.
+  
+  Quick syntax reference:
   
   1. *content*  (italic effect)
   2. **content**  (bold effect)
@@ -184,20 +184,41 @@ reStructuredText
   4. content
   ===========  (subtitle effect)
   
-  5. - content > · content (bullet effect)
+  5. - content  (bullet effect)
+  6. ::
+  
+       content  (word block quotation)
+
 
 
 Markdown
 ========
 ::
 
-  Quick reference:
+  Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
   
+  Quick syntax reference:
+  
+  1. *content*  (italic effect)
+  2. **content**  (bold effect)
+  3. ***content***  (italic and bold effect)
+  
+  4. # content  (1st level title)
+  5. ## content  (2nd level title)
+  6. ### content  (3rd level title)
+  
+  7. - content  (bullet effect)
+  8. > content  (quotation effect)
+  9. ---  (break line)
+
+
 
 XML
 ====
 ::
 
+  eXtensible Markup Language is a markup language used for storing and transporting data.
+  
   Quick reference:
 
 
@@ -206,7 +227,9 @@ HTML
 ====
 ::
 
-  Quick reference:
+  HyperText Markup Language is the standard markup language for Web pages.
+  
+  Quick syntax reference:
   
   
   
@@ -341,18 +364,47 @@ TW's value
 
 
 
+
+| 
+===========
+✨ Career
+===========
+
+- Career path
+::
+
+  1. Senior technical writer
+  2. 
+  
+
+- Experience sharing
+::
+  
+  1. From 
+  2. From 
+  
+  
+- 0-1-5-20-100
+::
+
+  0:
+  1:
+  5:
+  
+
+
 |
 =========
 🌌 About
 =========
 
 This blog is written by Austen to share learning outcome and ideas on technical writing.
-You can share this page https://z.rtfd.io with others.
+Please bookmark or share this page https://z.rtfd.io if you like it.
 
    If it is clear to me, it should be clear to them by technical writing.
    
    | --- Austen, a technical writer from China
 
-Have a beautiful day : )
+Have a beautiful day. ☕
 
 
