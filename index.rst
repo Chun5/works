@@ -195,7 +195,7 @@ Markdown
 ========
 ::
 
-  Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
+  Markdown is a lightweight markup language for creating formatted text using a plaintext editor.
   
   Quick syntax reference:
   
@@ -219,7 +219,7 @@ XML
 
   eXtensible Markup Language is a markup language used for storing and transporting data.
   
-  Quick reference:
+  Quick syntax reference:
 
 
 
@@ -271,41 +271,46 @@ Discussion
   My answer is no in the recent decade, but it could happen in 2050 when half of TW disappear.
   
   Technical writers could hardly be replaced by AI completely, no matter how advanced AI brain
-  is trained. It is a process AI infinitely approaches to replacing technical writers.
+  is trained. It is a progressive process AI infinitely approaches to replacing TW.
   
-  From the historic perspective, it is so slow to witness an occupation disappears, especially
-  the occupation that lives a much long time and needs human wisdom as well as creativity.
+  From the historic perspective, it is slow to witness an occupation disappears, especially the
+  occupation that lives a much long time and needs human wisdom as well as creativity.
+
 
 ::
 
-  Besides, AI does have bugs and weakness in wording, rhetoric, contextual analysis, etc.
-  This implies that the current AI is not ready for completing high-level writing jobs.
+  Besides, AI does have bugs and weakness in wording, rhetoric, contextual analysis, etc. This
+  implies that the current AI is not ready for completing high-level writing jobs.
   
-  Not all companies believe in AI's ability in writing technical documents, though they are much
-  easier than suspense novel for AI. Moreover, information security and AI's understanding on
-  our real requirement should be carefully considered.
-    
-  Concerning creative writing, such as suspense novel, for now, AI is not competent to do
-  this kind of work, or deal with it satisfactorily. Although we can see AI is producing
-  articles to the public and people can not recognize that they are written by the computers.
+  There are still a large proportion of companies and individuals do not believe in AI's ability
+  in writing technical documents, though they are much easier than suspense novel for AI.
+  Moreover, information security and AI's understanding on our real requirements should be 
+  carefully considered.
+  
+  Concerning creative writing, such as suspense novel, for now, AI is not competent to do this 
+  kind of work, or deal with it satisfactorily. Although we can see AI is producing articles to 
+  the public and people do not recognize that they are written by computers.
   
 
 ::
 
-  But the days get closer. It is worth noting that ChatGPT, the household AI application, 
-  becomes the significant turning point to TW' career. Closer, no doubt.
+  But the days get closer. It is worth noting that ChatGPT, the household AI application, becomes
+  the significant turning point to TW' career. Closer, no doubt.
   
-  Probably in the coming decade, we will see more and more writing jobs are taken over by AI.
+  Probably in the coming decade, we can see more and more writing jobs will be taken over by AI.
   Meanwhile, we technical writers, or some of us will still be working on our familiar tasks,
   such as writing user guides or API specifications. 
 
+  A well-worn question is raised: do you believe humankind will be manipulated by machines?
+  
+  
 
-- **What do we consider when reviewing a technical document?**
-
+- *What do we consider when reviewing a technical document?*
+==========
 ::
 
-  When reviewing a technical document, need I consider the writing style?
-  How could I ensure that I'm not manipulated by my strong bias when reviewing the document?
+  When reviewing a technical document, need I consider the writing style? If yes, which style?
+  How could I ensure that I'm not controlled by my strong bias when reviewing the document?
 
   1. Exclude personal factors, like emotion, preference, and interests.
   2. What is the audience of this document?
