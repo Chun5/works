@@ -236,6 +236,8 @@ XML
 - eXtensible Markup Language is a markup language used for storing and transporting data.
 - Function: data transmission (primary), file configuration (config.xml), data storing.
 - Custom tag is a must and case sensitive.
+- `Reference <https://www.w3school.com.cn/xml/xml_syntax.asp>`_
+
 
 **XML file sample**
 
@@ -243,13 +245,13 @@ XML
 
   <?xml version='1.0' encoding="utf-8" ?>
   <root>
-  <user> Austen </user>
+  <user country="China"> Austen </user>
   </root>
 
 
 ::
   
-  Syntax reference in Oxygen XML:
+  Syntax in Oxygen XML:
   
   <title>
   <shortdesc>
