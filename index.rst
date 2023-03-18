@@ -169,7 +169,7 @@ Reading list
 
 reStructuredText
 ================
- reStructuredText is a plaintext markup language used in static site generators like Sphinx.
+reStructuredText is a plaintext markup language used in static site generators like Sphinx.
   
 ::
  
@@ -193,7 +193,7 @@ reStructuredText
 
 Markdown
 ========
-  Markdown is a lightweight markup language for creating formatted text using a plaintext editor.
+Markdown is a lightweight markup language for creating formatted text using a plaintext editor.
 
 ::
   
@@ -215,9 +215,9 @@ Markdown
 
 XML
 ====
-::
+eXtensible Markup Language is a markup language used for storing and transporting data.
 
-  eXtensible Markup Language is a markup language used for storing and transporting data.
+::
   
   Quick syntax reference:
 
@@ -225,9 +225,9 @@ XML
 
 HTML
 ====
-::
+HyperText Markup Language is the standard markup language for Web pages.
 
-  HyperText Markup Language is the standard markup language for Web pages.
+::
   
   Quick syntax reference:
   
@@ -294,8 +294,8 @@ Discussion
 
 ::
 
-  But the days get closer. It is worth noting that ChatGPT, the household AI application, becomes
-  the significant turning point to TW' career. Closer, no doubt.
+  But the days get closer. It is worth noting that ChatGPT, the household AI application,
+  becomes the significant turning point to TW' career. Closer, no doubt.
   
   Probably in the coming decade, we can see more and more writing jobs will be taken over by AI.
   Meanwhile, we technical writers, or some of us will still be working on our familiar tasks,
@@ -305,8 +305,8 @@ Discussion
   
   
 
-- *What do we consider when reviewing a technical document?*
-==========
+- ***What do we consider when reviewing a technical document?***
+
 ::
 
   When reviewing a technical document, need I consider the writing style? If yes, which style?
