@@ -305,7 +305,7 @@ Discussion
   
   
 
-- ***What do we consider when reviewing a technical document?***
+- *What do we consider when reviewing a technical document?*
 
 ::
 
