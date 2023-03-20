@@ -177,24 +177,24 @@ DITA
 reStructuredText
 ================
 reStructuredText is a plaintext markup language used in static site generators like Sphinx.
-  
-::
- 
-  
-  Quick syntax reference:
-  
-  1. *content*  (italic effect)
-  2. **content**  (bold effect)
-  
-  3. content
-  -----------  (main title effect)
-  4. content
-  ===========  (subtitle effect)
-  
-  5. - content  (unnumbered bullet list effect)
-  6. ::
-  
-       content  (word block quotation)
+
+
++------------+----------------------------------------+
+|   Syntax   |              Description               |
++============+========================================+
+| *content*  |  italic effect                         |
++------------+----------------------------------------+
+|**content** |  bold effect                           |
++------------+----------------------------------------+
+|  content   |  main title effect                     |
+| ---------  |                                        |
++------------+----------------------------------------+
+|  content   |  subtitle effect                       |
+| =========  |                                        |
++------------+----------------------------------------+
+| - content  |  unnumbered bullet list effect         |
++------------+----------------------------------------+
+
 
 
 
@@ -232,25 +232,14 @@ XML
 
 ::
 
-  <?xml version='1.0' encoding="utf-8" ?>
-  <root>
-  <user country="China"> Austen </user>
-  </root>
-
-
-::
-  
-  Syntax in Oxygen XML:
-  
-  <title>
-  <shortdesc>
-  <conbody>  (add elements to concept's description)
-  <section>  (organize conceptual information)
-  <sl>  (short/simple item list)
-  <ul>  (unordered bulleted list)
-  <dl>  (a list of terms and definitions)
-  <fig> or <image>  (insert graphics)
-  <term>  (highlight new terms)
+  <?xml version="1.0" encoding="UTF-8"?>
+  <letter>
+    <to>Catherine</to>
+    <from>Justin</from>
+    <heading>I miss you</heading>
+    <body>Hope everything goes well and 
+    please take care of yourself.</body>
+  </note> 
 
 
 
@@ -258,18 +247,6 @@ HTML
 ====
 HyperText Markup Language is the standard markup language for Web pages.
    
-    
-    
-  <body>  Defines the document's body
-  <br>  Defines a single line break
-  <h1> to <h6>  Defines HTML headings
-  <img>  Defines an image
-  <option>  Defines an option in a drop-down list
-  <select>  Defines a drop-down list
-  <ul>  Defines an unordered list
-  <video>  Defines embedded video content
-  
-
 
 +------------+----------------------------------------+
 |    Tag     |              Description               |
@@ -284,10 +261,25 @@ HyperText Markup Language is the standard markup language for Web pages.
 +------------+----------------------------------------+
 | <basefont> |  Specifies a default color, size, and  |
 |            |  font for all text in a document       |
-+------------+-------------------------------------------------------+
-|<blockquote>|  Defines a section that is quoted from another source |
-+------------+-------------------------------------------------------+
-|  <audio>   |  Defines embedded sound content        |
++------------+----------------------------------------+
+|<blockquote>|  Defines a section that is quoted from |
+|            |  another source                        |
++------------+----------------------------------------+
+|   <body>   |  Defines the document's body           |
++------------+----------------------------------------+
+|    <br>    |  Defines a single line break           |
++------------+----------------------------------------+
+|<h1> to <h6>|  Defines HTML headings                 |
++------------+----------------------------------------+
+|   <img>    |  Defines an image                      |
++------------+----------------------------------------+
+|  <option>  |  Defines an option in a drop-down list |
++------------+----------------------------------------+
+|  <select>  |  Defines a drop-down list              |
++------------+----------------------------------------+
+|    <ul>    |  Defines an unordered list             |
++------------+----------------------------------------+
+|  <video>   |  Defines embedded video content        |
 +------------+----------------------------------------+
 
 
