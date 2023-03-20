@@ -115,8 +115,8 @@ QTI's characteristics:
 
    1. Organization: A coherent arrangement of parts that makes sense to the user
    
-   2. Retrievability: The presentation of information in a way that enables users to find specific
-      items quickly and easily
+   2. Retrievability: The presentation of information in a way that enables users to find 
+      specific items quickly and easily
    
    3. Visual effectiveness: Attractiveness and enhanced meaning of information through the use of
       layout, illustrations, color, typography, icons, and other graphical devices
@@ -199,15 +199,12 @@ DITA
   DITA maps impose an architecture on a set of topics. Information architects can use DITA maps 
   to specify what DITA topics are needed to support a given set of user goals and requirements; 
   the sequential order of the topics; and the relationships that exist among those topics. 
-  Because DITA maps provide this context for topics, the topics themselves can be relatively 
-  context-free; they can be used and reused in multiple different contexts.
 
 ::
 
   DITA maps often represent a single deliverable, for example, a specific Web site, a printed 
   publication, or the online help for a product. DITA maps also can be subcomponents for a 
-  single deliverable, for example, a DITA map might contain the content for a chapter in a 
-  printed publication or the troubleshooting information for an online help system.
+  single deliverable.
 
 
 
@@ -269,7 +266,7 @@ c. XML
 
 
 d. HTML
-=======
+========
 HyperText Markup Language is the standard markup language for Web pages.
 
 +------------+----------------------------------------+
@@ -534,6 +531,19 @@ TW's value
   3. Company image: act like a business card to show a company's image.
 
   4. Entrance to products: many users get to know a product from its user manual.
+
+
+- **Value in product life cycle**
+
+::
+
+  1. Product strategy: help form product or service strategy
+  2. Product design: help acquire market demand and target group.
+  3. Development and production: meet users' needs of information about product's function.
+  4. Sales: lead potential customers to find the product's information.
+  5. Product implementation: provide the information on installing, implementing, 
+     integrating the product.
+
 
 
 
