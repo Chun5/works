@@ -543,6 +543,9 @@ TW's value
   4. Sales: lead potential customers to find the product's information.
   5. Product implementation: provide the information on installing, implementing, 
      integrating the product.
+  6. Product use: help users use the product and resolve the problems.
+  7. After-sale service: help technical support troubleshoot the issues.
+  8. Track feedbacks: for continuous improvement
 
 
 
