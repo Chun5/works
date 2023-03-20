@@ -122,6 +122,22 @@ QTI's characteristics:
    use of layout, illustrations, color, typography, icons, and other graphical devices
 
 
+
+Technical writing's characteristics:
+====================================
+  1. Technical document is written for the specific audience.
+  2. Technical writing helps audience resolve problems. It is different from literature works.
+  3. TW focuses on how the content is presented.
+
+
+
+
+
+
+
+
+
+
 |
 Reading list
 =============
@@ -181,7 +197,7 @@ reStructuredText
 - `Reference <https://docutils.sourceforge.io/docs/user/rst/quickref.html>`_
 
 
-|
+
 Markdown
 ========
 Markdown is a lightweight markup language for creating formatted text using a plaintext editor.
@@ -201,7 +217,6 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 
 
 
-|
 XML
 ====
 - eXtensible Markup Language is a markup language used for storing and transporting data.
@@ -387,10 +402,21 @@ New deliverables of TW
 
 ::
 
-  Car companies present AR assistance system. With mobile phone, users scan the car components
-  to access the corresponding information, instead of reading the user manual.
+  Car companies release AR assistance systems. With a mobile phone, one user can scan the car 
+  components to access the corresponding information, instead of reading the massive information
+  in the user manual.
 
 
+
+- **Chat bot**
+
+::
+
+  The key points of an intelligent chat bot are a rich and elaborated repository, as well as 
+  the code design of the bot program.
+  
+  
+  
 - **Software and hardware interactive assistance**
 
 ::
@@ -402,13 +428,6 @@ New deliverables of TW
   sensor if the movement is right. The interactive mode gets started quickly and reduces users'
   reading workload a lot.
 
-
-- **Chat bot**
-
-::
-
-  The key points of an intelligent chat bot are a rich and elaborated repository, as well as 
-  the program/code design of the bot.
 
 
 
@@ -454,8 +473,11 @@ To improve technical writing
   Learning content:
   
   1. Professional books on technical writing, such as DQTI.
+  
   2. Official web pages of product documentation center, like IBM, Microsoft, Google.
+  
   3. Standard documents of organizations or associations, like ISO.
+  
   4. Trends towards technical communication field
   
 
