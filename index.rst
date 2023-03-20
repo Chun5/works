@@ -429,11 +429,12 @@ New deliverables of TW
   to access the corresponding information, instead of reading the user manual.
 
 
-- **Software and hardward interactive assistance**
+- **Software and hardware interactive assistance**
 
 ::
 
   Connected with the body, hardware can sense the user's operations.
+  
   For example, Ninebot, a balance electric vehicle, guides users to install an application.
   Once connected with Ninebot, the app prompts users to move as required, and decides by the 
   sensor if the movement is right. The interactive mode gets started quickly and reduces users'
@@ -444,7 +445,8 @@ New deliverables of TW
 
 ::
 
-  The key is a rich and elaborated repository, as well as the program design of the bot.
+  The key points of an intelligent chat bot are a rich and elaborated repository, as well as 
+  the program/code design of the bot.
 
 
 
@@ -461,18 +463,50 @@ New deliverables of TW
 
 
 | 
-Writing better technical document
-----------------------------------
+To improve technical writing
+------------------------------
 
-- **Good habits for technical writing**
+- **What is a good technical document?**
+::
+
+  1. 
+  2.
+  3.
+
+
+
+- **Learn more to ensure sufficient input.**
 
 ::
 
-  1. Learn, summarize, then clear your website collections.
+  Good habits for writing:
   
-  2. Make note if you find a friendly and simple writing style.
+  1. Keep on reading the subject-specific materials.
   
-  3. Check and improve the UI copywriting when using a product.
+  2. Learn, note, then clear your collections.
+  
+  3. Make the plan and do it at your own pace.
+
+::
+
+  Learning content:
+  
+  1. Professional books on technical writing, such as DQTI.
+  2. Official web pages of product documentation center, like IBM, Microsoft, Google.
+  3. Standard documents of organizations or associations, like ISO.
+  4. Trends towards technical communication field
+  
+
+
+- **Write in a friendly style.**
+::
+
+  1. Use a friendly layout and well presented typeset.
+  
+  2. Consider how to improve UI copywritings when using products.
+
+  3. 
+
 
 
 | 
@@ -485,7 +519,7 @@ TW's value
 
   1. Company asset
   
-  2. Cost cutting
+  2. Cost cut
   
   3. Company image
 
@@ -503,7 +537,10 @@ TW's value
 
   1. Senior technical writer
   
-  2. 
+  2. Content manager
+  
+  3. Information designer
+  
   
 
 - **Experience sharing**
