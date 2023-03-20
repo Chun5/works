@@ -181,14 +181,14 @@ reStructuredText
 - `Reference <https://docutils.sourceforge.io/docs/user/rst/quickref.html>`_
 
 
-
+|
 Markdown
 ========
 Markdown is a lightweight markup language for creating formatted text using a plaintext editor.
   
 
 +------------+----------------------------------------+
-|    Tag     |              Description               |
+|  Syntax    |              Description               |
 +============+========================================+
 | # content  |  1st level title                       |
 +------------+----------------------------------------+
@@ -198,15 +198,13 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 +------------+----------------------------------------+
 | > content  |  quotation effect                      |
 +------------+----------------------------------------+
-| ---        |  break line                            |
-+------------+----------------------------------------+
 
 
 
+|
 XML
 ====
 - eXtensible Markup Language is a markup language used for storing and transporting data.
-- Function: data transmission (primary), file configuration (config.xml), data storing.
 - Custom tag is a must and case sensitive.
 - `Reference <https://www.w3school.com.cn/xml/xml_syntax.asp>`_
 
@@ -216,12 +214,13 @@ XML
 ::
 
   <?xml version="1.0" encoding="UTF-8"?>
-  <letter>
+ 
+  <letter>  
     <to>Catherine</to>
     <from>Justin</from>
+    
     <heading>I miss you</heading>
-    <body>Hope everything goes well and 
-    please take care of yourself.</body>
+    <body>Hope everything goes well and please take care of yourself.</body>    
   </letter> 
 
 
