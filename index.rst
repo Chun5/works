@@ -273,7 +273,7 @@ HyperText Markup Language is the standard markup language for Web pages.
   
   Syntax reference:
   
-  <!--...-->  Defines a comment
+    
   <a>  Defines a hyperlink
   <article>  Defines an article
   <audio>  Defines embedded sound content
@@ -289,16 +289,14 @@ HyperText Markup Language is the standard markup language for Web pages.
   <ul>  Defines an unordered list
   <video>  Defines embedded video content
   
-=====  =====  ======
-   Inputs     Output
-------------  ------
-  A      B    A or B
-=====  =====  ======
-False  False  False
-True   False  True
-False  True   True
-True   True   True
-=====  =====  ======
+=====      ===========  
+ tag       Description
+-----      -----------
+<!--...-->  Defines a comment 
+True   False 
+False  True 
+True   True  
+=====  =====
 
 
 
