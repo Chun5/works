@@ -8,7 +8,7 @@
 
   WorldFirst enterprise solution is developed to boost the financial inclusion by driving a
   significant increase in digital payment across the globe. I cooperate with developers and
-  SAs, then write API specification documents for the payment related modules.
+  system admins, then write API specifications for the payment associated modules.
 
 
 My works
