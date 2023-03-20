@@ -176,47 +176,30 @@ DITA
 
 reStructuredText
 ================
-reStructuredText is a plaintext markup language used in static site generators like Sphinx.
-
-
-+------------+----------------------------------------+
-|   Syntax   |              Description               |
-+============+========================================+
-| *content*  |  italic effect                         |
-+------------+----------------------------------------+
-|**content** |  bold effect                           |
-+------------+----------------------------------------+
-|  content   |  main title effect                     |
-| ---------  |                                        |
-+------------+----------------------------------------+
-|  content   |  subtitle effect                       |
-| =========  |                                        |
-+------------+----------------------------------------+
-| - content  |  unnumbered bullet list effect         |
-+------------+----------------------------------------+
-
+- reStructuredText is a plaintext markup language used in static site generators like Sphinx.
+- This page is written in reStructuredText language.
+- `Reference <https://docutils.sourceforge.io/docs/user/rst/quickref.html>`_
 
 
 
 Markdown
 ========
 Markdown is a lightweight markup language for creating formatted text using a plaintext editor.
+  
 
-::
-  
-  Quick syntax reference:
-  
-  1. *content*  (italic effect)
-  2. **content**  (bold effect)
-  3. ***content***  (italic and bold effect)
-  
-  4. # content  (1st level title)
-  5. ## content  (2nd level title)
-  6. ### content  (3rd level title)
-  
-  7. - content  (unnumbered bullet list effect)
-  8. > content  (quotation effect)
-  9. ---  (break line)
++------------+----------------------------------------+
+|    Tag     |              Description               |
++============+========================================+
+| # content  |  1st level title                       |
++------------+----------------------------------------+
+| ## content |  2nd level title                       |
++------------+----------------------------------------+
+|### content |  3rd level title                       |
++------------+----------------------------------------+
+| > content  |  quotation effect                      |
++------------+----------------------------------------+
+| ---        |  break line                            |
++------------+----------------------------------------+
 
 
 
@@ -239,7 +222,7 @@ XML
     <heading>I miss you</heading>
     <body>Hope everything goes well and 
     please take care of yourself.</body>
-  </note> 
+  </letter> 
 
 
 
