@@ -277,9 +277,9 @@ HyperText Markup Language is the standard markup language for Web pages.
     
     
     
-  <b>  Defines bold text
-  <basefont>  Specifies a default color, size, and font for all text in a document
-  <blockquote>  Defines a section that is quoted from another source
+   
+    
+    Defines a section that is quoted from another source
   <body>  Defines the document's body
   <br>  Defines a single line break
   <h1> to <h6>  Defines HTML headings
@@ -291,17 +291,24 @@ HyperText Markup Language is the standard markup language for Web pages.
   
 
 
-+------------+------------------------+
-|    Tag     |       Description      |
-+============+========================+
-|    <a>     |  Defines a hyperlink   |
-+------------+------------------------+
-| <article>  |  Defines an article    |
-+------------+------------------------+
-|  <audio>   |  Defines embedded sound content   |
-+------------+------------------------+
-
-
++------------+----------------------------------------+
+|    Tag     |              Description               |
++============+========================================+
+|    <a>     |  Defines a hyperlink                   |
++------------+----------------------------------------+
+| <article>  |  Defines an article                    |
++------------+----------------------------------------+
+|  <audio>   |  Defines embedded sound content        |
++------------+----------------------------------------+
+|    <b>     |  Defines bold text                     |
++------------+----------------------------------------+
+| <basefont> |  Specifies a default color, size, and  |
+|            |  font for all text in a document       |
++------------+----------------------------------------+
+|<blockquote>|  Defines an article                    |
++------------+----------------------------------------+
+|  <audio>   |  Defines embedded sound content        |
++------------+----------------------------------------+
 
 
 
