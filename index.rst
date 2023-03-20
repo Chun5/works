@@ -115,11 +115,11 @@ QTI's characteristics:
 
    1. Organization: A coherent arrangement of parts that makes sense to the user
    
-   2. Retrievability: The presentation of information in a way that enables users to find
-   specific items quickly and easily
+   2. Retrievability: The presentation of information in a way that enables users to find specific
+      items quickly and easily
    
-   3. Visual effectiveness: Attractiveness and enhanced meaning of information through the 
-   use of layout, illustrations, color, typography, icons, and other graphical devices
+   3. Visual effectiveness: Attractiveness and enhanced meaning of information through the use of
+      layout, illustrations, color, typography, icons, and other graphical devices
 
 
 
@@ -205,9 +205,9 @@ DITA
 ::
 
   DITA maps often represent a single deliverable, for example, a specific Web site, a printed 
-  publication, or the online help for a product. DITA maps also can be subcomponents for a single 
-  deliverable, for example, a DITA map might contain the content for a chapter in a printed 
-  publication or the troubleshooting information for an online help system.
+  publication, or the online help for a product. DITA maps also can be subcomponents for a 
+  single deliverable, for example, a DITA map might contain the content for a chapter in a 
+  printed publication or the troubleshooting information for an online help system.
 
 
 
@@ -219,7 +219,7 @@ DITA
 1. Language
 ------------
 
-1) reStructuredText
+a. reStructuredText
 ====================
 - reStructuredText is a plaintext markup language used in static site generators like Sphinx.
 - This page is written in reStructuredText language.
@@ -227,7 +227,7 @@ DITA
 
 
 
-2) Markdown
+b. Markdown
 ===========
 Markdown is a lightweight markup language for creating formatted text using a plaintext editor.
   
@@ -245,7 +245,7 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 
 
 
-3) XML
+c. XML
 =======
 - eXtensible Markup Language is a markup language used for storing and transporting data.
 - Custom tag is a must and case sensitive.
@@ -268,7 +268,7 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 
 
 
-4) HTML
+d. HTML
 =======
 HyperText Markup Language is the standard markup language for Web pages.
 
