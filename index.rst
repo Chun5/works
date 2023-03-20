@@ -273,6 +273,36 @@ HyperText Markup Language is the standard markup language for Web pages.
   
   Syntax reference:
   
+  <!--...-->  Defines a comment
+  <a>  Defines a hyperlink
+  <article>  Defines an article
+  <audio>  Defines embedded sound content
+  <b>  Defines bold text
+  <basefont>  Specifies a default color, size, and font for all text in a document
+  <blockquote>  Defines a section that is quoted from another source
+  <body>  Defines the document's body
+  <br>  Defines a single line break
+  <h1> to <h6>  Defines HTML headings
+  <img>  Defines an image
+  <option>  Defines an option in a drop-down list
+  <select>  Defines a drop-down list
+  <ul>  Defines an unordered list
+  <video>  Defines embedded video content
+  
+=====  =====  ======
+   Inputs     Output
+------------  ------
+  A      B    A or B
+=====  =====  ======
+False  False  False
+True   False  True
+False  True   True
+True   True   True
+=====  =====  ======
+
+
+
+  
 
 ::
 
