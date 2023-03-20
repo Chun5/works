@@ -126,15 +126,12 @@ QTI's characteristics:
 Technical writing's characteristics:
 ====================================
   1. Technical document is written for the specific audience.
-  2. Technical writing helps audience resolve problems. It is different from literature works.
-  3. TW focuses on how the content is presented.
-
-
-
-
-
-
-
+  
+  2. Technical writing helps audience accomplish tasks or resolve problems. It is different
+     from literature works.
+  
+  3. TW focuses on how the words are presented and organized, like the font, color, alignment.
+     Use more brief sentences and lists.
 
 
 
@@ -175,7 +172,12 @@ DITA
 **DITA Map**
 ::
 
-  ABC
+  DITA maps are documents that organize topics and other resources into structured collections
+  of information. DITA maps specify hierarchy and the relationships among the topics; they also
+  provide the context in which keys are defined and resolved. DITA maps should have .ditamap 
+  file extensions.
+
+
 
 
 
@@ -444,7 +446,7 @@ New deliverables of TW
 
 
 | 
-To improve technical writing
+Technical writing improvement
 ------------------------------
 
 - **What is a good technical document?**
@@ -501,13 +503,13 @@ TW's value
 
 ::
 
-  1. Company asset
+  1. Company asset: accumulated digital asset and knowledge base for reference.
   
-  2. Cost cut
+  2. Cost cut: With self-help user manual, a company's labor cost gets lower.
   
-  3. Company image
+  3. Company image: act like a business card to show a company's image.
 
-  4. Entrance to products
+  4. Entrance to products: a user gets to know  
 
 
 
@@ -523,7 +525,7 @@ TW's value
   
   2. Content manager
   
-  3. Information designer
+  3. Information architect
   
   
 
