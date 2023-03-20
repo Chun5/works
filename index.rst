@@ -123,8 +123,10 @@ QTI's characteristics:
 
 
 
-Technical writing's characteristics:
-====================================
+TW's characteristics:
+========================
+::
+
   1. Technical document is written for the specific audience.
   
   2. Technical writing helps audience accomplish tasks or resolve problems. It is different
@@ -192,8 +194,8 @@ DITA
 1. Language
 ------------
 
-reStructuredText
-================
+- reStructuredText
+==================
 - reStructuredText is a plaintext markup language used in static site generators like Sphinx.
 - This page is written in reStructuredText language.
 - `Reference <https://docutils.sourceforge.io/docs/user/rst/quickref.html>`_
