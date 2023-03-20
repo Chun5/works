@@ -207,6 +207,18 @@ DITA
   single deliverable.
 
 
+|
+TW Process
+----------
+- a. Demand analysis: user task analysis
+- b. Information architecture design: storytelling mode, progressive presentation, easily-searchable content
+- c. Technical writing 
+- d. Quality control 
+Publishment > delivering > Maintenance
+
+
+
+
 
 |
 =========
@@ -216,7 +228,7 @@ DITA
 1. Language
 ------------
 
-a. reStructuredText
+a) reStructuredText
 ====================
 - reStructuredText is a plaintext markup language used in static site generators like Sphinx.
 - This page is written in reStructuredText language.
@@ -224,7 +236,7 @@ a. reStructuredText
 
 
 
-b. Markdown
+b) Markdown
 ===========
 Markdown is a lightweight markup language for creating formatted text using a plaintext editor.
   
@@ -242,7 +254,7 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 
 
 
-c. XML
+c) XML
 =======
 - eXtensible Markup Language is a markup language used for storing and transporting data.
 - Custom tag is a must and case sensitive.
@@ -265,7 +277,7 @@ c. XML
 
 
 
-d. HTML
+d) HTML
 ========
 HyperText Markup Language is the standard markup language for Web pages.
 
