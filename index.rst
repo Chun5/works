@@ -165,17 +165,6 @@ DITA
 
 
 
-DQTI
------
-
-::
-
-  1
-
-
-
-
-
 
 |
 =========
@@ -268,18 +257,9 @@ XML
 HTML
 ====
 HyperText Markup Language is the standard markup language for Web pages.
-
-::
-  
-  Syntax reference:
-  
-    
-    
-    
-    
    
     
-    Defines a section that is quoted from another source
+    
   <body>  Defines the document's body
   <br>  Defines a single line break
   <h1> to <h6>  Defines HTML headings
@@ -304,9 +284,9 @@ HyperText Markup Language is the standard markup language for Web pages.
 +------------+----------------------------------------+
 | <basefont> |  Specifies a default color, size, and  |
 |            |  font for all text in a document       |
-+------------+----------------------------------------+
-|<blockquote>|  Defines an article                    |
-+------------+----------------------------------------+
++------------+-------------------------------------------------------+
+|<blockquote>|  Defines a section that is quoted from another source |
++------------+-------------------------------------------------------+
 |  <audio>   |  Defines embedded sound content        |
 +------------+----------------------------------------+
 
