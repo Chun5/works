@@ -179,10 +179,35 @@ DITA
   provide the context in which keys are defined and resolved. DITA maps should have .ditamap 
   file extensions.
 
+::
 
+  Maps draw on a rich set of existing best practices and standards for defining information 
+  models, such as hierarchical task analysis. They also support the definition of 
+  non-hierarchical relationships, such as matrices and groups, which provide a set of 
+  capabilities that has similarities to Resource Description Framework (RDF) and ISO topic maps.
 
+::
 
+  DITA maps use <topicref> elements to reference DITA topics, DITA maps, and non-DITA resources,
+  for example, HTML and TXT files. The <topicref> elements can be nested or grouped to create 
+  relationships between the referenced topics, maps, and non-DITA files; the <topicref> elements
+  can be organized into hierarchies in order to represent a specific order of navigation or 
+  presentation.
 
+::
+
+  DITA maps impose an architecture on a set of topics. Information architects can use DITA maps 
+  to specify what DITA topics are needed to support a given set of user goals and requirements; 
+  the sequential order of the topics; and the relationships that exist among those topics. 
+  Because DITA maps provide this context for topics, the topics themselves can be relatively 
+  context-free; they can be used and reused in multiple different contexts.
+
+::
+
+  DITA maps often represent a single deliverable, for example, a specific Web site, a printed 
+  publication, or the online help for a product. DITA maps also can be subcomponents for a single 
+  deliverable, for example, a DITA map might contain the content for a chapter in a printed 
+  publication or the troubleshooting information for an online help system.
 
 
 
@@ -194,19 +219,18 @@ DITA
 1. Language
 ------------
 
-- reStructuredText
-==================
+1) reStructuredText
+====================
 - reStructuredText is a plaintext markup language used in static site generators like Sphinx.
 - This page is written in reStructuredText language.
 - `Reference <https://docutils.sourceforge.io/docs/user/rst/quickref.html>`_
 
 
 
-Markdown
-========
+2) Markdown
+===========
 Markdown is a lightweight markup language for creating formatted text using a plaintext editor.
   
-
 +------------+----------------------------------------+
 |  Syntax    |              Description               |
 +============+========================================+
@@ -221,8 +245,8 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 
 
 
-XML
-====
+3) XML
+=======
 - eXtensible Markup Language is a markup language used for storing and transporting data.
 - Custom tag is a must and case sensitive.
 - `Reference <https://www.w3school.com.cn/xml/xml_syntax.asp>`_
@@ -244,10 +268,9 @@ XML
 
 
 
-HTML
-====
+4) HTML
+=======
 HyperText Markup Language is the standard markup language for Web pages.
-   
 
 +------------+----------------------------------------+
 |    Tag     |              Description               |
@@ -282,7 +305,6 @@ HyperText Markup Language is the standard markup language for Web pages.
 +------------+----------------------------------------+
 |  <video>   |  Defines embedded video content        |
 +------------+----------------------------------------+
-
 
 
 ::
@@ -501,7 +523,7 @@ Technical writing improvement
 TW's value
 ------------
 
-- **Technical documents create great value for companies**
+- **Technical documents create great value for companies.**
 
 ::
 
@@ -511,7 +533,7 @@ TW's value
   
   3. Company image: act like a business card to show a company's image.
 
-  4. Entrance to products: a user gets to know  
+  4. Entrance to products: many users get to know a product from its user manual.
 
 
 
