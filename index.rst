@@ -388,18 +388,46 @@ Discussion
 
 
 |
-New application in TW field
----------------------------
+New deliverables of TW
+-----------------------
 
-- **Wearable user guide**
+- **AR**
 
 ::
 
-  1. AR for product user guide
+  Car companies present AR assistance system. With mobile phone, users scan the car components
+  to access the corresponding information, instead of reading the user manual.
+
+
+- **Software and hardward interactive assistance**
+
+::
+
+  Connected with the body, hardware can sense the user's operations.
+  For example, Ninebot, a balance electric vehicle, guides users to install an application.
+  Once connected with Ninebot, the app prompts users to move as required, and decides by the 
+  sensor if the movement is right. The interactive mode gets started quickly and reduces users'
+  reading workload a lot.
+
+
+- **Chat bot**
+
+::
+
+  The key is a rich and elaborated repository, as well as the program design of the bot.
+
+
+
+- **Things to be considered**
+
+::
+
+  1. AR glasses evaluation
   
-  2. The content design for AR, like audio, menu, video, etc.
+  2. Usage senario of AR user guide
   
-  3. Examples of AR companies
+  3. The content design for AR, like audio, menu and option.
+  
 
 
 | 
