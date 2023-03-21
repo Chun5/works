@@ -179,12 +179,7 @@ DITA Topic is the minimum, independent, and reusable content unit. One topic, on
     
     * prereq
     * context
-    
-    * step
-      - cmd
-      - info/substeps/tutorialinfo
-      - stepresult
-    
+    * step (cmd, info/substeps/tutorialinfo, stepresult)
     * result
     * example
     * postreq
@@ -245,19 +240,16 @@ TW Process
    - storytelling mode
    - progressive presentation
    - easily-searchable content
-  3. Technical writing: DITA, DocBook; reStructuredText, Markdown, markdown-dita.
+   
+  3. Technical writing: write in reStructuredText, Markdown, markdown-dita.
   4. Quality control: review, test, and verify the document
   
-  5. Publishment
-    - PDF
-    - web page
+  5. Publishment: PDF, web page, etc.
   6. delivering
     - print in the box
     - article on the website and app
     - embedded assistance in a software
-  7. Maintenance: address the market demand and the product/technology upgrade.
-
-
+  7. Maintenance: update as per market demand, product and technology.
 
 
 
@@ -269,7 +261,8 @@ TW Process
 1. Language
 ------------
 
-- reStructuredText
+*reStructuredText*
+==================
 
 - reStructuredText is a plaintext markup language used in static site generators like Sphinx.
 - This page is written in reStructuredText language.
@@ -277,7 +270,7 @@ TW Process
 
 
 
-- Markdown
+*Markdown*
 
 Markdown is a lightweight markup language for creating formatted text using a plaintext editor.
   
