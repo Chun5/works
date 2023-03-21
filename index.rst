@@ -390,12 +390,16 @@ Structured writing tool
 - Notepad++
 
 
-
-  2) Visual Studio Code: a code editor redefined/optimized for building/debugging Apps.
-
-  3) Document Type Definition (DTD) template: define/control topics' structure/style.
+DITA TOO: a component content management (DITA CCMS) and content automation platform. It’s your end-to-end solution for producing, managing, and publishing product content: technical documentation, training materials, marketing collateral, sales proposals, and more.
 
 
+Version control: SVN, GIT
+
+Visual Studio Code: a code editor redefined/optimized for building/debugging Apps.
+
+Document Type Definition (DTD) template: define/control topics' structure/style.
+
+Confluence: Create, collaborate, and organize all your work in one place. Confluence is a team workspace where knowledge and collaboration meet. 
 
 
 
@@ -409,6 +413,12 @@ Structured writing tool
 
 3) Box: Store and manage your cloud content.
 
+
+|
+4. Other tools
+-----------------
+1) screen-capture tool: Snagit, Picpick
+2)
 
 
 |
