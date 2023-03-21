@@ -210,11 +210,15 @@ DITA
 |
 TW Process
 ----------
-- a. Demand analysis: user task analysis
-- b. Information architecture design: storytelling mode, progressive presentation, easily-searchable content
-- c. Technical writing 
-- d. Quality control 
-Publishment > delivering > Maintenance
+  1. Demand analysis: user task analysis
+>
+  2. Information architecture design: storytelling mode, progressive presentation, easily-searchable content
+>
+  3. Technical writing 
+- d. Quality control: review, test, and verify the document
+- e. Publishment: in PDF, web page, etc.
+- f. delivering: print in the box, article on the website and app, embedded assistance in a software.
+Maintenance: to address the market demand, as well as the product and technology upgrade
 
 
 
