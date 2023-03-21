@@ -160,14 +160,15 @@ Reading list
 
 DITA
 -----
+Darwin Information Typing Architecture is an international standard released by OASIS on how to write and publish 
+technical information.
+
 
 **Information type**
 ::
 
-  Concept: describe what it is; see syntax at Tools > Langauge > XML
-  
+  Concept: describe what it is
   Task: step 1, step 2, step 3... ; substep a, substep b, substep c; cmd, info, note
-  
   Reference: table, entry
 
 
@@ -207,18 +208,27 @@ DITA
   single deliverable.
 
 
+Other technical standards for structured writing
+::
+
+  DocBook: a structured standard for books, used in digital publishing field.
+  
+  S1000D: a general international standard for technical publications, used in aviation, 
+  aerospace, military industry.
+
+
+
+
 |
 TW Process
 ----------
   1. Demand analysis: user task analysis
->
   2. Information architecture design: storytelling mode, progressive presentation, easily-searchable content
->
-  3. Technical writing 
-- d. Quality control: review, test, and verify the document
-- e. Publishment: in PDF, web page, etc.
-- f. delivering: print in the box, article on the website and app, embedded assistance in a software.
-Maintenance: to address the market demand, as well as the product and technology upgrade
+  3. Technical writing: DITA, DocBook; reStructuredText, Markdown, markdown-dita.
+  4. Quality control: review, test, and verify the document
+  5. Publishment: in PDF, web page, etc.
+  6. delivering: print in the box, article on the website and app, embedded assistance in a software.
+  7. Maintenance: address the market demand and the product/technology upgrade.
 
 
 
