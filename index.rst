@@ -160,16 +160,29 @@ Reading list
 
 DITA
 -----
-Darwin Information Typing Architecture is an international standard released by OASIS on how to write and publish 
-technical information.
+Darwin Information Typing Architecture is an international standard released by OASIS on how to write and publish technical information.
+DITA Topic is the minimum, independent, and reusable content unit. One topic, one subject.
+
+**DITA Topic information type**
+
+ - Concept: what is
+ - Task: how to; step 1,2,3; substep a,b,c
+ - Troubleshooting
+ - Reference
+
+- Task
+
+  + title
+  
+  - shortdesc
+  
+  * prolog
+  
+    + metadata
+    
+    - keyword
 
 
-**Information type**
-::
-
-  Concept: describe what it is
-  Task: step 1, step 2, step 3... ; substep a, substep b, substep c; cmd, info, note
-  Reference: table, entry
 
 
 **DITA Map**
@@ -180,13 +193,15 @@ technical information.
   provide the context in which keys are defined and resolved. DITA maps should have .ditamap 
   file extensions.
 
-::
-
   Maps draw on a rich set of existing best practices and standards for defining information 
   models, such as hierarchical task analysis. They also support the definition of 
   non-hierarchical relationships, such as matrices and groups, which provide a set of 
   capabilities that has similarities to Resource Description Framework (RDF) and ISO topic maps.
 
+  DITA maps impose an architecture on a set of topics. Information architects can use DITA maps 
+  to specify what DITA topics are needed to support a given set of user goals and requirements; 
+  the sequential order of the topics; and the relationships that exist among those topics. 
+  
 ::
 
   DITA maps use <topicref> elements to reference DITA topics, DITA maps, and non-DITA resources,
@@ -194,14 +209,6 @@ technical information.
   relationships between the referenced topics, maps, and non-DITA files; the <topicref> elements
   can be organized into hierarchies in order to represent a specific order of navigation or 
   presentation.
-
-::
-
-  DITA maps impose an architecture on a set of topics. Information architects can use DITA maps 
-  to specify what DITA topics are needed to support a given set of user goals and requirements; 
-  the sequential order of the topics; and the relationships that exist among those topics. 
-
-::
 
   DITA maps often represent a single deliverable, for example, a specific Web site, a printed 
   publication, or the online help for a product. DITA maps also can be subcomponents for a 
@@ -242,7 +249,7 @@ TW Process
 1. Language
 ------------
 
-a) reStructuredText
+(1) reStructuredText
 ====================
 - reStructuredText is a plaintext markup language used in static site generators like Sphinx.
 - This page is written in reStructuredText language.
@@ -250,7 +257,7 @@ a) reStructuredText
 
 
 
-b) Markdown
+(2) Markdown
 ===========
 Markdown is a lightweight markup language for creating formatted text using a plaintext editor.
   
@@ -268,7 +275,7 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 
 
 
-c) XML
+(3) XML
 =======
 - eXtensible Markup Language is a markup language used for storing and transporting data.
 - Custom tag is a must and case sensitive.
@@ -291,7 +298,7 @@ c) XML
 
 
 
-d) HTML
+(4) HTML
 ========
 HyperText Markup Language is the standard markup language for Web pages.
 
@@ -345,13 +352,15 @@ HyperText Markup Language is the standard markup language for Web pages.
 
   
 |
-2. Document management tool
------------------------------
+2. Content and document management tool
+---------------------------------------
 ::
 
   1) Sphinx: Create intelligent and beautiful documentation easily by reStructuredText.
 
   2) Visual Studio Code: a code editor redefined/optimized for building/debugging Apps.
+
+  3) Document Type Definition (DTD) template: define and control the topic's structure and style.
 
 
 |
