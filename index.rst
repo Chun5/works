@@ -375,7 +375,8 @@ HyperText Markup Language is the standard markup language for Web pages.
 |
 2. Writing and content management tool
 ----------------------------------------
-- Unstructured writing tool:
+
+Unstructured writing tool:
 ============================
  Microsoft Word
  Adobe FrameMaker
@@ -384,7 +385,6 @@ HyperText Markup Language is the standard markup language for Web pages.
 
 
 - Structured writing tool:
-::
 
   Oxygen XML Author
   PTC Abortext Editor
