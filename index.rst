@@ -169,8 +169,8 @@ DITA Topic is the minimum, independent, and reusable content unit. One topic, on
 - Task: how to
 
   + title
-  - shortdesc  
-  * prolog:
+  + shortdesc
+  + prolog:
   
     + metadata
     - keyword
@@ -178,10 +178,9 @@ DITA Topic is the minimum, independent, and reusable content unit. One topic, on
   + taskbody
     
     * prereq
-    - context
-    + step: cmd; info, substeps, tutorialinfo; stepresult
-
-    - result
+    * context
+    * step (cmd; info, substeps, tutorialinfo; stepresult)
+    * result
     * example
     * postreq
 
