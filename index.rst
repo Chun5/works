@@ -613,9 +613,11 @@ TW's value
 
  1. Senior technical writer
   
- 2. Content manager
+ 2. Information architect
   
- 3. Information architect
+ 3. Content manager
+ 
+ 4. UX designer
   
   
 
@@ -631,11 +633,11 @@ TW's value
 
  1. `tekom <https://www.technical-communication.org>`_
  2. `STC <https://www.stc.org>`_
- 3. 
- 4. `OASIS Open <https://www.oasis-open.org>`_
+ 3. `OASIS Open <https://www.oasis-open.org>`_
+ 4. `TC China <http://www.tc-china.org>`_
+ 5. `CIDM <https://www.infomanagementcenter.com>`_
+ 6. `AATW <https://attw.org>`_
 
-
-  
 
 
 |
