@@ -138,9 +138,9 @@ TW's characteristics:
 
 
 |
-Reading list
-=============
-
+Learning list
+==============
+- Book list:
  1. IBM Style Guide - The Conventions for Writers and Editors
  2. Microsoft Style Guide
  3. A Practical Guide to Information Architecture
@@ -150,8 +150,14 @@ Reading list
  7. Docs for Developers - An Engineer’s Field Guide to Technical Writing
  8. Handbook of Technical Writing
  9. SAP Style Guide For Technical Communication
- 10. `TCBOK <https://www.tcbok.org>`_ (Technical Communication Body Of Knowledge)
- 11. `reStructuredText reference <https://docutils.sourceforge.io/docs/user/rst/quickref.html>`_
+
+
+- Webistes
+ 
+ 1. `TCBOK <https://www.tcbok.org>`_ (Technical Communication Body Of Knowledge)
+ 2. `reStructuredText reference <https://docutils.sourceforge.io/docs/user/rst/quickref.html>`_
+ 3. `Tech Whirl <https://techwhirl.com>`_
+ 4. `Cherry leaf <https://www.cherryleaf.com>`_
 
 
 |
@@ -367,8 +373,29 @@ HyperText Markup Language is the standard markup language for Web pages.
 
   
 |
-2. Content and document management tool
+2. Writing and content management tool
 ----------------------------------------
+- Unstructured writing tool:
+============================
+ Microsoft Word
+ Adobe FrameMaker
+ Adobe RoboHelp
+ Madcap Flare
+
+
+- Structured writing tool:
+::
+
+  Oxygen XML Author
+  PTC Abortext Editor
+  Adobe FrameMaker (structured)
+
+
+
+
+
+
+
 ::
 
   1) Sphinx: Create intelligent and beautiful documentation easily by reStructuredText.
@@ -376,6 +403,9 @@ HyperText Markup Language is the standard markup language for Web pages.
   2) Visual Studio Code: a code editor redefined/optimized for building/debugging Apps.
 
   3) Document Type Definition (DTD) template: define/control topics' structure/style.
+
+
+
 
 
 |
