@@ -606,15 +606,6 @@ TW's value
 ✨ Career
 ===========
 
-Society and organization
--------------------------
-
-- `tekom <https://www.technical-communication.org>`_
-- `STC <https://www.stc.org>`_
-- `OASIS Open <https://www.oasis-open.org>`_
-
-
-
 - **Career path**
 ::
 
@@ -632,15 +623,16 @@ Society and organization
   1. From 
   2. From 
   
-  
-- **0-1-5-20-100**
-::
 
-  0:
-  
-  1:
-  
-  5:
+
+Society and organization
+========================
+
+1. `tekom <https://www.technical-communication.org>`_
+2. `STC <https://www.stc.org>`_
+3. `OASIS Open <https://www.oasis-open.org>`_
+
+
   
 
 
