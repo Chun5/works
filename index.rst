@@ -164,23 +164,33 @@ Darwin Information Typing Architecture is an international standard released by 
 DITA Topic is the minimum, independent, and reusable content unit. One topic, one subject.
 
 **DITA Topic information type**
+::
 
- - Concept: what is
- - Task: how to; step 1,2,3; substep a,b,c
- - Troubleshooting
- - Reference
+  Concept: what is
+  Task: how to; step 1,2,3; substep a,b,c
+  Troubleshooting
+  Reference
+
 
 - Task
 
   + title
-  
   - shortdesc
   
   * prolog
   
     + metadata
-    
     - keyword
+    
+  + taskbody
+  
+    * prereq
+    
+    - context
+    
+    
+  
+  - related-links
 
 
 
@@ -249,16 +259,16 @@ TW Process
 1. Language
 ------------
 
-(1) reStructuredText
-====================
+- reStructuredText
+
 - reStructuredText is a plaintext markup language used in static site generators like Sphinx.
 - This page is written in reStructuredText language.
 - `Reference <https://docutils.sourceforge.io/docs/user/rst/quickref.html>`_
 
 
 
-(2) Markdown
-===========
+- Markdown
+
 Markdown is a lightweight markup language for creating formatted text using a plaintext editor.
   
 +------------+----------------------------------------+
@@ -275,8 +285,8 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 
 
 
-(3) XML
-=======
+- XML
+
 - eXtensible Markup Language is a markup language used for storing and transporting data.
 - Custom tag is a must and case sensitive.
 - `Reference <https://www.w3school.com.cn/xml/xml_syntax.asp>`_
@@ -298,8 +308,8 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 
 
 
-(4) HTML
-========
+- HTML
+
 HyperText Markup Language is the standard markup language for Web pages.
 
 +------------+----------------------------------------+
