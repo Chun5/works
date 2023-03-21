@@ -387,32 +387,32 @@ Structured writing tool
 - PTC Abortext Editor
 - Adobe FrameMaker (structured)
 - Notepad++
-- Document Type Definition (DTD) template: define/control topics' structure/style.
+- Document Type Definition template: define and control topics' structure and style.
 
 
 |
 3. Content management tool
 -----------------------------
 
-- DITA TOO: a component content management (DITA CCMS) and content automation platform. It’s your end-to-end solution for producing, managing, and publishing product content: technical documentation, training materials, marketing collateral, sales proposals, and more.
-- Sphinx: Create intelligent and beautiful documentation easily by reStructuredText.
 - Box: Store and manage your cloud content.
+- Sphinx: Create intelligent and beautiful documentation easily by reStructuredText.
+
+- DITA TOO: a component content management (DITA CCMS) and content automation platform. It’s your end-to-end solution for producing, managing, and publishing product content like technical documentation, training materials, marketing collateral, sales proposals.
 
 
-|
+
 4. Project management tool
 ----------------------------
 - Jira: Manage and track projects and issues.
 - Slack: Communicate and collaborate with teammates.
 - Confluence: Create, collaborate, and organize all your work in a team workspace.
-- GIT/SVN: version control
+- GIT/SVN: Manage and control versions.
 
 
-|
 5. Other tools
 -----------------
 - Snagit/Picpick: screen-capture tool
-- Visual Studio Code: a code editor redefined/optimized for building/debugging Apps.
+- Visual Studio Code: a code editor redefined and optimized for building and debugging Apps.
 
 
 
