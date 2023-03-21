@@ -150,7 +150,7 @@ Learning list
  9. SAP Style Guide For Technical Communication
 
 
-- Webistes
+- Websites
  
  1. `TCBOK <https://www.tcbok.org>`_ (Technical Communication Body Of Knowledge)
  2. `reStructuredText reference <https://docutils.sourceforge.io/docs/user/rst/quickref.html>`_
@@ -395,7 +395,6 @@ Structured writing tool
 
 - Box: Store and manage your cloud content.
 - Sphinx: Create intelligent and beautiful documentation easily by reStructuredText.
-|
 - **DITA TOO**: a component content management (DITA CCMS) and content automation platform. It’s your end-to-end solution for producing, managing, and publishing product content like technical documentation, training materials, marketing collateral, and sales proposals.
 
 
@@ -646,9 +645,9 @@ TW's value
  1. `tekom <https://www.technical-communication.org>`_ (European Association for Technical Communication)
  2. `STC <https://www.stc.org>`_ (Society for Technical Communication)
  3. `OASIS Open <https://www.oasis-open.org>`_
- 4. `TC China <http://www.tc-china.org>`_
+ 4. `TC China <http://www.tc-china.org>`_ (Technical Communicators in China)
  5. `CIDM <https://www.infomanagementcenter.com>`_ (The Center for Information-Development Management)
- 6. `AATW <https://attw.org>`_ (Association of Teachers of Technical Writing)
+ 6. `ATTW <https://attw.org>`_ (Association of Teachers of Technical Writing)
 
 
 
