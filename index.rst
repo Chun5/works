@@ -271,6 +271,7 @@ TW Process
 
 
 *Markdown*
+==========
 
 Markdown is a lightweight markup language for creating formatted text using a plaintext editor.
   
@@ -288,7 +289,8 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 
 
 
-- XML
+*XML*
+======
 
 - eXtensible Markup Language is a markup language used for storing and transporting data.
 - Custom tag is a must and case sensitive.
@@ -302,16 +304,17 @@ Markdown is a lightweight markup language for creating formatted text using a pl
   <?xml version="1.0" encoding="UTF-8"?>
  
   <letter>  
-    <to>Catherine</to>
-    <from>Justin</from>
+    <to> Catherine </to>
+    <from> Justin </from>
     
-    <heading>I miss you</heading>
-    <body>Hope everything goes well and please take care of yourself.</body>    
+    <heading> I miss you </heading>
+    <body> Hope everything goes well and take care of yourself. </body>    
   </letter> 
 
 
 
-- HTML
+*HTML*
+=======
 
 HyperText Markup Language is the standard markup language for Web pages.
 
@@ -360,20 +363,18 @@ HyperText Markup Language is the standard markup language for Web pages.
   
   3. HTML is used to display data, and XML is to transmit and store data.
   
-  
-
 
   
 |
 2. Content and document management tool
----------------------------------------
+----------------------------------------
 ::
 
   1) Sphinx: Create intelligent and beautiful documentation easily by reStructuredText.
 
   2) Visual Studio Code: a code editor redefined/optimized for building/debugging Apps.
 
-  3) Document Type Definition (DTD) template: define and control the topic's structure and style.
+  3) Document Type Definition (DTD) template: define/control topics' structure/style.
 
 
 |
@@ -469,22 +470,21 @@ Discussion
 New deliverables of TW
 -----------------------
 
-- **AR**
-
-::
-
-  Car companies release AR assistance systems. With a mobile phone, one user can scan the car 
-  components to access the corresponding information, instead of reading the massive information
-  in the user manual.
-
-
-
 - **Chat bot**
 
 ::
 
   The key points of an intelligent chat bot are a rich and elaborated repository, as well as 
   the code design of the bot program.
+  
+  
+- **Augmented reality (AR)**
+
+::
+
+  Car companies release AR assistance systems. With a mobile phone, one user can scan the car 
+  components to access the corresponding information, instead of reading the massive information
+  in the user manual.
   
   
   
@@ -501,8 +501,7 @@ New deliverables of TW
 
 
 
-
-- **Things to be considered**
+- **Next consideration**
 
 ::
 
@@ -522,7 +521,9 @@ Technical writing improvement
 ::
 
   1. 
+  
   2.
+  
   3.
 
 
@@ -541,7 +542,7 @@ Technical writing improvement
 
 ::
 
-  Learning content:
+  Learning resources:
   
   1. Professional books on technical writing, such as DQTI.
   
@@ -581,19 +582,20 @@ TW's value
   4. Entrance to products: many users get to know a product from its user manual.
 
 
-- **Value in product life cycle**
+- **Value in a product's life cycle**
 
 ::
 
-  1. Product strategy: help form product or service strategy
+  1. Product strategy: help build the product or service strategy.
   2. Product design: help acquire market demand and target group.
+  
   3. Development and production: meet users' needs of information about product's function.
   4. Sales: lead potential customers to find the product's information.
-  5. Product implementation: provide the information on installing, implementing, 
-     integrating the product.
+  5. Product implementation: offer information on installing/implementing/integrating products.
   6. Product use: help users use the product and resolve the problems.
+  
   7. After-sale service: help technical support troubleshoot the issues.
-  8. Track feedbacks: for continuous improvement
+  8. Track feedbacks: follow up for continuous improvement.
 
 
 
