@@ -606,8 +606,8 @@ TW's value
 ✨ Career
 ===========
 
-- **Career path**
-::
+Career path
+------------
 
   1. Senior technical writer
   
@@ -617,16 +617,17 @@ TW's value
   
   
 
-- **Experience sharing**
-::
+Experience sharing
+------------------
   
   1. From 
+  
   2. From 
   
 
 
 Society and organization
-========================
+--------------------------
 
 1. `tekom <https://www.technical-communication.org>`_
 2. `STC <https://www.stc.org>`_
