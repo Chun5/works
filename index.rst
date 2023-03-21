@@ -231,7 +231,7 @@ Other technical standards for structured writing
   DocBook: a structured standard for books, used in digital publishing field.
   
   S1000D: a general international standard for technical publications, used in aviation, 
-  aerospace, military industry.
+  aerospace, and military industry.
 
 
 
@@ -239,22 +239,21 @@ Other technical standards for structured writing
 |
 TW Process
 ----------
-  1. Demand analysis: user task analysis
-  
-  2. Information architecture design
-   - storytelling mode
-   - progressive presentation
-   - easily-searchable content
-   
-  3. Technical writing: write in reStructuredText, Markdown, markdown-dita.
-  4. Quality control: review, test, and verify the document
-  
-  5. Publishment: PDF, website, ePub, Android, iOS, etc.
-  6. delivering
-    - print in the box
-    - article on the website and app
-    - embedded assistance in a software
-  7. Maintenance: update as per market demand, product and technology.
+ 1. Demand analysis: user task analysis 
+ 2. Information architecture design
+  - storytelling mode
+  - progressive presentation
+  - easily-searchable content 
+ 
+ 3. Technical writing: write in reStructuredText, Markdown, markdown-dita.
+ 4. Quality control: review, test, and verify the document  
+ 5. Publishment: PDF, website, ePub, Android, iOS, etc.
+ 
+ 6. delivering
+  - print in the box
+  - article on the website and app
+  - embedded assistance in a software
+ 7. Maintenance: update as per market demand, product and technology.
 
 
 
@@ -374,29 +373,23 @@ HyperText Markup Language is the standard markup language for Web pages.
 2. Writing and content management tool
 ----------------------------------------
 
-Unstructured writing tool:
+Unstructured writing tool
 ============================
- Microsoft Word
- Adobe FrameMaker
- Adobe RoboHelp
- Madcap Flare
+- Microsoft Word
+- Adobe FrameMaker
+- Adobe RoboHelp
+- Madcap Flare
 
 
-- Structured writing tool:
-
-  Oxygen XML Author
-  PTC Abortext Editor
-  Adobe FrameMaker (structured)
-
-
-
-
+Structured writing tool
+========================
+- Oxygen XML Author
+- PTC Abortext Editor
+- Adobe FrameMaker (structured)
+- Sphinx: Create intelligent and beautiful documentation easily by reStructuredText.
+- Notepad++
 
 
-
-::
-
-  1) Sphinx: Create intelligent and beautiful documentation easily by reStructuredText.
 
   2) Visual Studio Code: a code editor redefined/optimized for building/debugging Apps.
 
@@ -409,13 +402,12 @@ Unstructured writing tool:
 |
 3. Project management tool
 ----------------------------
-::
 
-  1) Jira: Manage and track projects and issues.
+1) Jira: Manage and track projects and issues.
 
-  2) Slack: Communicate and collaborate with teammates.
+2) Slack: Communicate and collaborate with teammates.
 
-  3) Box: Store and manage your cloud content.
+3) Box: Store and manage your cloud content.
 
 
 
