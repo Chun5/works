@@ -170,21 +170,26 @@ DITA Topic is the minimum, independent, and reusable content unit. One topic, on
 
   + title
   + shortdesc
-  + prolog:
+  + prolog
   
-    + metadata
+    - metadata
     - keyword
     
   + taskbody
     
     * prereq
     * context
-    * step (cmd; info, substeps, tutorialinfo; stepresult)
+    
+    * step
+      - cmd
+      - info/substeps/tutorialinfo
+      - stepresult
+    
     * result
     * example
     * postreq
 
-  - related-links
+  + related-links
 
 - Troubleshooting
 - Reference
@@ -235,11 +240,21 @@ Other technical standards for structured writing
 TW Process
 ----------
   1. Demand analysis: user task analysis
-  2. Information architecture design: storytelling mode, progressive presentation, easily-searchable content
+  
+  2. Information architecture design
+   - storytelling mode
+   - progressive presentation
+   - easily-searchable content
   3. Technical writing: DITA, DocBook; reStructuredText, Markdown, markdown-dita.
   4. Quality control: review, test, and verify the document
-  5. Publishment: in PDF, web page, etc.
-  6. delivering: print in the box, article on the website and app, embedded assistance in a software.
+  
+  5. Publishment
+    - PDF
+    - web page
+  6. delivering
+    - print in the box
+    - article on the website and app
+    - embedded assistance in a software
   7. Maintenance: address the market demand and the product/technology upgrade.
 
 
