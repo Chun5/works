@@ -483,6 +483,9 @@ New deliverables of TW
 
 ::
 
+  The creative AR material supports user interaction, and act as a virtual mentor. This reduces
+  users' learning barrier and motivates them to learn how-to significantly.
+  
   Car companies release AR assistance systems. With a mobile phone, one user can scan the car 
   components to access the corresponding information, instead of reading the massive information
   in the user manual.
@@ -494,15 +497,15 @@ New deliverables of TW
 ::
 
   Connected with the body, hardware can sense the user's operations.
-  
   For example, Ninebot, a balance electric vehicle, guides users to install an application.
+  
   Once connected with Ninebot, the app prompts users to move as required, and decides by the 
   sensor if the movement is right. The interactive mode gets started quickly and reduces users'
   reading workload a lot.
 
 
 
-- **Next consideration**
+- **Further consideration**
 
 ::
 
@@ -606,32 +609,30 @@ TW's value
 ✨ Career
 ===========
 
-Career path
-------------
+- **Career path**
 
-  1. Senior technical writer
+ 1. Senior technical writer
   
-  2. Content manager
+ 2. Content manager
   
-  3. Information architect
+ 3. Information architect
   
   
 
-Experience sharing
-------------------
+- **Experience sharing**
   
-  1. From 
+ 1. From 
   
-  2. From 
+ 2. From 
   
 
 
-Society and organization
---------------------------
+- **Society and organization**
 
-1. `tekom <https://www.technical-communication.org>`_
-2. `STC <https://www.stc.org>`_
-3. `OASIS Open <https://www.oasis-open.org>`_
+ 1. `tekom <https://www.technical-communication.org>`_
+ 2. `STC <https://www.stc.org>`_
+ 3. 
+ 4. `OASIS Open <https://www.oasis-open.org>`_
 
 
   
