@@ -150,7 +150,8 @@ Reading list
  7. Docs for Developers - An Engineer’s Field Guide to Technical Writing
  8. Handbook of Technical Writing
  9. SAP Style Guide For Technical Communication
-
+ 10. `TCBOK <https://www.tcbok.org>`_ (Technical Communication Body Of Knowledge)
+ 11. `reStructuredText reference <https://docutils.sourceforge.io/docs/user/rst/quickref.html>`_
 
 
 |
@@ -244,7 +245,7 @@ TW Process
   3. Technical writing: write in reStructuredText, Markdown, markdown-dita.
   4. Quality control: review, test, and verify the document
   
-  5. Publishment: PDF, web page, etc.
+  5. Publishment: PDF, website, ePub, Android, iOS, etc.
   6. delivering
     - print in the box
     - article on the website and app
@@ -261,7 +262,7 @@ TW Process
 1. Language
 ------------
 
-*reStructuredText*
+reStructuredText
 ==================
 
 - reStructuredText is a plaintext markup language used in static site generators like Sphinx.
@@ -270,7 +271,7 @@ TW Process
 
 
 
-*Markdown*
+Markdown
 ==========
 
 Markdown is a lightweight markup language for creating formatted text using a plaintext editor.
@@ -289,7 +290,7 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 
 
 
-*XML*
+XML
 ======
 
 - eXtensible Markup Language is a markup language used for storing and transporting data.
@@ -313,7 +314,7 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 
 
 
-*HTML*
+HTML
 =======
 
 HyperText Markup Language is the standard markup language for Web pages.
@@ -604,6 +605,15 @@ TW's value
 ===========
 ✨ Career
 ===========
+
+Society and organization
+-------------------------
+
+- `tekom <https://www.technical-communication.org>`_
+- `STC <https://www.stc.org>`_
+- `OASIS Open <https://www.oasis-open.org>`_
+
+
 
 - **Career path**
 ::
