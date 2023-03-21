@@ -164,35 +164,35 @@ Darwin Information Typing Architecture is an international standard released by 
 DITA Topic is the minimum, independent, and reusable content unit. One topic, one subject.
 
 **DITA Topic information type**
-::
 
-  Concept: what is
-  Task: how to; step 1,2,3; substep a,b,c
-  Troubleshooting
-  Reference
-
-
-- Task
+- Concept: what is
+- Task: how to
 
   + title
   - shortdesc
-  
   * prolog
-  
     + metadata
     - keyword
     
   + taskbody
-  
     * prereq
-    
     - context
+    + step
+      * cmd
+      - info, substeps, tutorialinfo
+      + stepresult
+    
+    - result
+    + example
+    * postreq
     
     
-  
+
   - related-links
 
 
+- Troubleshooting
+- Reference
 
 
 **DITA Map**
