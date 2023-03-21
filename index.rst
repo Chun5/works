@@ -11,9 +11,8 @@
   system admins, then write API specifications for the payment associated modules.
 
 
-My works
-============
-- `API specification <https://developers.worldfirst.com.cn/docs/alipay-worldfirst/worldfirst_enterprise_solution/submit_trade_order>`_
+- **My works**
+`API specification <https://developers.worldfirst.com.cn/docs/alipay-worldfirst/worldfirst_enterprise_solution/submit_trade_order>`_
 
 
 
@@ -26,9 +25,7 @@ My works
   process and introduce tools to facilitate their integration with WorldFirst.
 
 
-My works
-============
-- `User manual <https://developers.worldfirst.com.cn/docs/alipay-worldfirst/overview/home>`_
+- **My works**: `User manual <https://developers.worldfirst.com.cn/docs/alipay-worldfirst/overview/home>`_
  
  
 
@@ -38,13 +35,14 @@ My works
 
   Zyla is developed for cross-border businesses trading in multiple currencies. I design the
   information architecture for the documentation center, draw API integration workflow chart,
-  and write user manual. I also work with US team members to publish the global documents.
+  and write user manual. I also work with US team members to publish documents like support
+  contact and user service agreement.
   
   
 
 My works
 =========
-- `Documentation center IA <https://developers.zyla.com/docs/>`_
+- `Documentation center <https://developers.zyla.com/docs/>`_
 
 
 | 
