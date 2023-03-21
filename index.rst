@@ -370,8 +370,8 @@ HyperText Markup Language is the standard markup language for Web pages.
 
   
 |
-2. Writing and content management tool
-----------------------------------------
+2. Writing tool
+-----------------
 
 Unstructured writing tool
 ============================
@@ -386,39 +386,34 @@ Structured writing tool
 - Oxygen XML Author
 - PTC Abortext Editor
 - Adobe FrameMaker (structured)
-- Sphinx: Create intelligent and beautiful documentation easily by reStructuredText.
 - Notepad++
-
-
-DITA TOO: a component content management (DITA CCMS) and content automation platform. It’s your end-to-end solution for producing, managing, and publishing product content: technical documentation, training materials, marketing collateral, sales proposals, and more.
-
-
-Version control: SVN, GIT
-
-Visual Studio Code: a code editor redefined/optimized for building/debugging Apps.
-
-Document Type Definition (DTD) template: define/control topics' structure/style.
-
-Confluence: Create, collaborate, and organize all your work in one place. Confluence is a team workspace where knowledge and collaboration meet. 
-
+- Document Type Definition (DTD) template: define/control topics' structure/style.
 
 
 |
-3. Project management tool
+3. Content management tool
+-----------------------------
+
+- DITA TOO: a component content management (DITA CCMS) and content automation platform. It’s your end-to-end solution for producing, managing, and publishing product content: technical documentation, training materials, marketing collateral, sales proposals, and more.
+- Sphinx: Create intelligent and beautiful documentation easily by reStructuredText.
+- Box: Store and manage your cloud content.
+
+
+|
+4. Project management tool
 ----------------------------
-
-1) Jira: Manage and track projects and issues.
-
-2) Slack: Communicate and collaborate with teammates.
-
-3) Box: Store and manage your cloud content.
+- Jira: Manage and track projects and issues.
+- Slack: Communicate and collaborate with teammates.
+- Confluence: Create, collaborate, and organize all your work in a team workspace.
+- GIT/SVN: version control
 
 
 |
-4. Other tools
+5. Other tools
 -----------------
-1) screen-capture tool: Snagit, Picpick
-2)
+- Snagit/Picpick: screen-capture tool
+- Visual Studio Code: a code editor redefined/optimized for building/debugging Apps.
+
 
 
 |
