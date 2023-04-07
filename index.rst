@@ -53,48 +53,37 @@ Developing Quality Technical Information
 
 Technical information continues to evolve
 ============================================
-::
     
-  Information that you put in an installation guide is not appropriate in an application
+- Information that you put in an installation guide is not appropriate in an application
   development guide. Different interface display mechanisms require different types of
-  information.
-  
-  When you become more adept at creating meaningful and effective embedded assistance and
-  delivering it progressively, you create a better customer experience and become a more
-  valuable member of your product team.
+  information. When you become more adept at creating meaningful and effective embedded 
+  assistance and delivering it progressively, you create a better customer experience and 
+  become a more valuable member of your product team.
 
-
-::
   
-  We are more involved with product design and user interface development, which means that we
+- We are more involved with product design and user interface development, which means that we
   must be involved earlier than ever in the development cycle. The problem with the historic 
   waterfall development process is that downstream teams have very little chance to change 
   anything that happened upstream. Develop ever smaller chunks of information to address the 
   changing needs of users.
 
 
-::
-
-  An overwhelming majority of customers report that information quality both affects their view 
+- An overwhelming majority of customers report that information quality both affects their view 
   of product quality and their overall product satisfaction. Information quality also has a 
-  significant impact on customers' buying decisions.
-  
-  Almost always, users seek answers to specific questions and don't want to read a book from
-  beginning to end to find those answers. Quality information addresses users where they are.
-  Writers must apply their own skills and expertise based on solid research and proven methods.
+  significant impact on customers' buying decisions. Almost always, users seek answers to specific
+  questions and don't want to read a book from beginning to end to find those answers. Quality 
+  information addresses users where they are. Writers must apply their own skills and expertise 
+  based on solid research and proven methods.
   
 
 
 QTI's characteristics:
 ======================
 - **Easy to use**
-::
   
-   1. Task orientation: A focus on helping users do tasks that support their goals
-   
-   2. Accuracy: Freedom from mistake or error; adherence to fact or truth
-   
-   3. Completeness: The inclusion of all necessary parts-and only those parts
+  + Task orientation: A focus on helping users do tasks that support their goals
+  + Accuracy: Freedom from mistake or error; adherence to fact or truth
+  + Completeness: The inclusion of all necessary parts-and only those parts
 
 - **Easy to understand**
 ::
