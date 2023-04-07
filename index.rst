@@ -53,22 +53,26 @@ Developing Quality Technical Information
 
 Technical information continues to evolve
 ============================================
-    
-- Information that you put in an installation guide is not appropriate in an application
+
+::
+
+  Information that you put in an installation guide is not appropriate in an application
   development guide. Different interface display mechanisms require different types of
   information. When you become more adept at creating meaningful and effective embedded 
   assistance and delivering it progressively, you create a better customer experience and 
   become a more valuable member of your product team.
 
-  
-- We are more involved with product design and user interface development, which means that we
+::
+
+  We are more involved with product design and user interface development, which means that we
   must be involved earlier than ever in the development cycle. The problem with the historic 
   waterfall development process is that downstream teams have very little chance to change 
   anything that happened upstream. Develop ever smaller chunks of information to address the 
   changing needs of users.
 
+::
 
-- An overwhelming majority of customers report that information quality both affects their view 
+  An overwhelming majority of customers report that information quality both affects their view 
   of product quality and their overall product satisfaction. Information quality also has a 
   significant impact on customers' buying decisions. Almost always, users seek answers to specific
   questions and don't want to read a book from beginning to end to find those answers. Quality 
@@ -85,25 +89,25 @@ QTI's characteristics:
   + Accuracy: Freedom from mistake or error; adherence to fact or truth
   + Completeness: The inclusion of all necessary parts-and only those parts
 
-- **Easy to understand**
-::
 
-   1. Clarity: Freedom from ambiguity or obscurity; using language clear to understand
+- **Easy to understand**
+
+  + Clarity: Freedom from ambiguity or obscurity; using language clear to understand
    
-   2. Concreteness: The inclusion of appropriate examples, scenarios, analogies, and graphics
+  + Concreteness: The inclusion of appropriate examples, scenarios, analogies, and graphics
    
-   3. Style: Correctness and appropriateness of writing conventions and of words and phrases
+  + Style: Correctness and appropriateness of writing conventions and of words and phrases
+  
   
 - **Easy to find**
-::
 
-   1. Organization: A coherent arrangement of parts that makes sense to the user
+  + Organization: A coherent arrangement of parts that makes sense to the user
    
-   2. Retrievability: The presentation of information in a way that enables users to find 
-      specific items quickly and easily
+  + Retrievability: The presentation of information in a way that enables users to find 
+    specific items quickly and easily
    
-   3. Visual effectiveness: Attractiveness and enhanced meaning of information through the use of
-      layout, illustrations, color, typography, icons, and other graphical devices
+  + Visual effectiveness: Attractiveness and enhanced meaning of information through the use of
+    layout, illustrations, color, typography, icons, and other graphical devices
 
 
 
