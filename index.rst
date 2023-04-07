@@ -51,7 +51,7 @@ IBM DQTI
 -----------------------------------------
 Developing Quality Technical Information
 
-Technical information continues to evolve
+Technical information continues to evolve.
 ============================================
 
 ::
@@ -74,10 +74,10 @@ Technical information continues to evolve
 
   An overwhelming majority of customers report that information quality both affects their view 
   of product quality and their overall product satisfaction. Information quality also has a 
-  significant impact on customers' buying decisions. Almost always, users seek answers to specific
-  questions and don't want to read a book from beginning to end to find those answers. Quality 
-  information addresses users where they are. Writers must apply their own skills and expertise 
-  based on solid research and proven methods.
+  significant impact on customers' buying decisions. Almost always, users seek answers to 
+  specific questions and don't want to read a book from beginning to end to find those answers.
+  Quality information addresses users where they are. Writers must apply their own skills and
+  expertise based on solid research and proven methods.
   
 
 
@@ -93,9 +93,7 @@ QTI's characteristics:
 - **Easy to understand**
 
   + Clarity: Freedom from ambiguity or obscurity; using language clear to understand
-   
   + Concreteness: The inclusion of appropriate examples, scenarios, analogies, and graphics
-   
   + Style: Correctness and appropriateness of writing conventions and of words and phrases
   
   
@@ -113,7 +111,6 @@ QTI's characteristics:
 
 TW's characteristics:
 ========================
-::
 
   1. Technical document is written for the specific audience.
   
@@ -122,7 +119,6 @@ TW's characteristics:
   
   3. TW focuses on how the words are presented and organized, like the font, color, alignment.
      Use more brief sentences and lists.
-
 
 
 |
