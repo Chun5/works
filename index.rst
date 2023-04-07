@@ -11,11 +11,10 @@
   system admins, then write API specifications for the payment associated modules.
 
 
-- **My works**
-`API specification <https://developers.worldfirst.com.cn/docs/alipay-worldfirst/worldfirst_enterprise_solution/submit_trade_order>`_
+- **My works**: `API specification <https://developers.worldfirst.com.cn/docs/alipay-worldfirst/worldfirst_enterprise_solution/submit_trade_order>`_
 
 
-
+|
 2. WorldFirst developer center user manual
 ------------------------------------------
 ::
@@ -27,8 +26,8 @@
 
 - **My works**: `User manual <https://developers.worldfirst.com.cn/docs/alipay-worldfirst/overview/home>`_
  
- 
 
+|
 3. Zyla documentation center
 -----------------------------
 ::
@@ -39,7 +38,6 @@
   contact and user service agreement.
   
   
-
 My works
 =========
 - `Documentation center <https://developers.zyla.com/docs/>`_
