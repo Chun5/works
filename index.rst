@@ -9,6 +9,7 @@ WorldFirst enterprise solution is developed to boost the financial inclusion by 
 significant increase in digital payment across the globe. I cooperate with developers and
 system admins, then write API specifications for the payment associated modules.
 
+
 My works
 =========
 - `API specification <https://developers.worldfirst.com.cn/docs/alipay-worldfirst/worldfirst_enterprise_solution/submit_trade_order>`_
@@ -16,27 +17,26 @@ My works
 
 2. WorldFirst developer center user manual
 ------------------------------------------
-::
 
-  WorldFirst developer center is a platform for developers and partners to build, test, and
-  launch WorldFirst products. I write this manual to guide developers through the integration
-  process and introduce tools to facilitate their integration with WorldFirst.
+WorldFirst developer center is a platform for developers and partners to build, test, and
+launch WorldFirst products. I write this manual to guide developers through the integration
+process and introduce tools to facilitate their integration with WorldFirst.
 
 
-- **My works**: `User manual <https://developers.worldfirst.com.cn/docs/alipay-worldfirst/overview/home>`_
+My works
+=========
+- `User manual <https://developers.worldfirst.com.cn/docs/alipay-worldfirst/overview/home>`_
  
 
-|
 3. Zyla documentation center
 -----------------------------
-::
 
-  Zyla is developed for cross-border businesses trading in multiple currencies. I design the
-  information architecture for the documentation center, draw API integration workflow chart,
-  and write user manual. I also work with US team members to publish documents like support
-  contact and user service agreement.
+Zyla is developed for cross-border businesses trading in multiple currencies. I design the
+information architecture for the documentation center, draw API integration workflow chart,
+and write user manual. I also work with US team members to publish documents like support
+contact and user service agreement.
   
-  
+
 My works
 =========
 - `Documentation center <https://developers.zyla.com/docs/>`_
