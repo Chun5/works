@@ -432,8 +432,8 @@ Discussion
   carefully considered.
   
   Concerning creative writing, such as suspense novel, for now, AI is not competent to do this 
-  kind of work, or deal with it satisfactorily. Although we can see AI is producing articles to 
-  the public and people do not recognize that they are written by computers.
+  kind of work or deal with it satisfactorily. Meanwhile, we can see AI is producing articles to 
+  the public and people do not recognize they are written by computers.
   
 
 ::
