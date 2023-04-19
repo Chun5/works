@@ -284,6 +284,7 @@ XML
 
 - eXtensible Markup Language is a markup language used for storing and transporting data.
 - Custom tag is a must and case sensitive.
+- `What is XML <https://www.xml.com/pub/a/98/10/guide0.html>`_ 
 - `Reference <https://www.w3school.com.cn/xml/xml_syntax.asp>`_
 
 
